@@ -1,4 +1,7 @@
 <?php
+
+use CodeIgniter\I18n\Time;
+
 ?>
 <div class="container">
     <div class="row">
@@ -9,14 +12,14 @@
                     <hr/>
                     <?php foreach ($purchases as $purchase): ?>
                         <div class="list-group list-group-flush">
-                            <a href="#"
+                            <a href="/purchase/<?= $purchase->id; ?>"
                                class="list-group-item list-group-item-action flex-column align-items-start">
                                 <div class="d-flex w-100 justify-content-between">
                                     <h5 class="mb-1">Purchase #<?= $purchase->id; ?></h5>
-                                    <small><?= $purchase->created_at; ?></small>
+                                    <small><?= Time::parse($purchase->created_at)->humanize();; ?></small>
                                 </div>
                                 <p class="mb-1">Product Quantity:&nbsp;<?= $purchase->prodQuantity; ?></p>
-                                <small>Purchase Status: <?= $purchase->status; ?></small>
+                                <small class="float-right">Status:&nbsp;<?= ucfirst($purchase->status); ?></small>
                             </a>
                         </div>
                     <?php endforeach; ?>

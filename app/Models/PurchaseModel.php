@@ -125,7 +125,7 @@ class PurchaseModel extends BaseModel
     public function closePurchase(Client $client)
     {
         log_message('debug', '[DEBUG] \\' . __NAMESPACE__ . '\PurchaseModel - closePurchase(client->{id}) called.', ['id' => $client->id]);
-        $purchase = $this->getPurchase($client)[0];
+        $purchase = $this->getPurchase($client);
         $purchase->status = 'closed';
         log_message('debug', 'lll');
         try {

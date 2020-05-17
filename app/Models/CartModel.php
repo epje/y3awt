@@ -171,15 +171,12 @@ class CartModel extends BaseModel
         $cart = $this->getCart($client);
         $products = $this->readContents($client);
         $purchaseModel = new PurchaseModel();
-        if ($purchase = $purchaseModel->getPurchase($client)[0]) {
+        if ($purchase = $purchaseModel->getPurchase($client)) {
 
             $productPurchaseModel = new ProductPurchaseModel();
 
             log_message('debug', '[DEBUG] \\' . __NAMESPACE__ . '\CartModel - Entering foreach(cart as product)');
             foreach ($products as $product) {
-                echo '<pre>';
-                var_dump($product);
-                echo '</pre>';
                 log_message('debug', '[DEBUG] \\' . __NAMESPACE__ . '\CartModel - foreach(cart({cart}) as product({product}))', ['cart' => $cart->id, 'product' => $product->id]);
                 if (!$productPurchaseModel->createProductPurchase($purchase, $product)) {
                     return false;
@@ -192,21 +189,13 @@ class CartModel extends BaseModel
             if (!$this->deleteCart($client)) {
                 return false;
             }
-
+            // No failures so return true;
+            return true;
 
         } else {
             log_message('error', '[ERROR] \\' . __NAMESPACE__ . '\CartModel - Failed $purchaseModel->getPurchase()');
             return false;
         }
-
-
-        // What is the role of this function?
-        // Create a purchase and related product purchase rows for $client.
-
-
-        // Finally do deleteCart();
-
-
     }
 
     /**
