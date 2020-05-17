@@ -1,6 +1,7 @@
 <?php namespace App\Controllers;
 
 use App\Models\ClientModel;
+use App\Models\PurchaseModel;
 
 class Client extends ParentController
 {
@@ -36,21 +37,75 @@ class Client extends ParentController
             // If not, redirect to the login page and request login.
             return redirect()->to('/client/login')->with('phone', 'Please sign in first!');
         }
-            // Otherwise redirect to their profile.
-            $keywords = ['client', 'login', 'login-page'];
-            $data = [
-                'author' => '17003804',
-                'copyright' => '',
-                'description' => 'Furniture Store Login Page',
-                'title' => "Login",
-                'keywords' => $keywords
-                //'client.phone' => $this->session->get('client.phone')
-            ];
+        // Otherwise redirect to their profile.
+        $keywords = ['client', 'login', 'login-page'];
+        $data = [
+            'author' => '17003804',
+            'copyright' => '',
+            'description' => 'Furniture Store Login Page',
+            'title' => "Login",
+            'keywords' => $keywords
+            //'client.phone' => $this->session->get('client.phone')
+        ];
 
-            echo view('templates/header', $data);
-            echo view('client/profile', $data);
-            echo view('templates/footer', $data);
+        echo view('templates/header', $data);
+        echo view('client/profile', $data);
+        echo view('templates/footer', $data);
 
+    }
+
+    /**
+     * @return \CodeIgniter\HTTP\RedirectResponse
+     * @todo Change signature to allow passing purchase ID + related function changes.
+     */
+    public function purchases()
+    {
+        // Prep
+        // Check if no purchases
+        //-> YES: echo empty view
+        // else
+        //-> Get list of purchases
+
+        // If the request to login page is not secure, force it to be.
+        if (!$this->request->isSecure()) {
+            force_https();
+        }
+
+        // Check if the client is logged in.
+        if (!$this->session->get('loggedIn')) {
+            // If not, redirect to the login page and request login.
+            return redirect()->to('/client/login')->with('phone', 'Please sign in first!');
+        }
+
+        $client = new \App\Entities\Client(['id' => $this->session->get('clientID')]);
+
+        $purchaseModel = new PurchaseModel();
+        $purchases = $purchaseModel->readByClientAll($client);
+
+        $pageKeywords = ['client', 'login', 'login-page'];
+        $headerData = [
+            'author' => '17003804',
+            'copyright' => '',
+            'description' => 'Furniture Store Login Page',
+            'title' => "Login",
+            'keywords' => $pageKeywords,
+            'validation' => $this->validator
+            //'client.phone' => $this->session->get('client.phone')
+        ];
+
+        $purchasesListData = [
+            'purchases' => $purchases
+        ];
+
+        if (!empty($purchases)) {
+            echo view('templates/header', $headerData);
+            echo view('client/purchases/list', $purchasesListData);
+            echo view('templates/footer');
+        } else {
+            echo view('templates/header', $headerData);
+            echo view('client/purchases/empty');
+            echo view('templates/footer');
+        }
     }
 
     public function loginGet()

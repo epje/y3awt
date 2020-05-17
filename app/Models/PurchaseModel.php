@@ -34,7 +34,7 @@ class PurchaseModel extends BaseModel
     public function create(Client $client)
     {
         if ($this->exists($client)) {
-            return $this->readByClient($client, 'open');
+            return $this->readByClientSingle($client, 'open');
         } else {
             $purchase = new Purchase([
                 'client_id' => $client->id,
@@ -57,7 +57,7 @@ class PurchaseModel extends BaseModel
 
     public function exists(Client $client)
     {
-        if (!empty($this->readByClient($client, 'open'))) {
+        if (!empty($this->readByClientSingle($client, 'open'))) {
             return true;
         } else {
             return false;
@@ -77,7 +77,7 @@ class PurchaseModel extends BaseModel
                 log_message('debug', '[DEBUG] Creating new purchase for client with id [{id}]', ['id' => $client->id]);
                 if ($this->insert($purchase)) {
                     // Return the purchase to the caller.
-                    return $this->readByClient($client, 'open');
+                    return $this->readByClientSingle($client, 'open');
                 }
             } catch (\ReflectionException $e) {
                 log_message('error', '[ERROR] {exception}', ['exception' => $e]);
@@ -87,11 +87,16 @@ class PurchaseModel extends BaseModel
             // The client already has an open purchase so return it.
             // TODO: This might not be the way to do it, as maybe adding products in loop - might not be a problem here, but could potentially be somewhere else (Maybe in product purchase model).
             log_message('debug', '[DEBUG] PurchaseModel.php - Client with id [{id}] already has an open purchase.', ['id' => $client->id]);
-            return $this->readByClient($client, 'open');
+            return $this->readByClientSingle($client, 'open');
         }
     }
 
-    public function readByClient(Client $client, string $status)
+    /**
+     * @param Client $client
+     * @param string $status
+     * @return array|object|null The current purchase that is marked as open (by default).
+     */
+    public function readByClientSingle(Client $client, string $status = 'open')
     {
         return $this
             ->where('client_id', $client->id)
@@ -99,18 +104,18 @@ class PurchaseModel extends BaseModel
             ->first();
     }
 
+    /**
+     * @param Client $client
+     * @return array An array of purchases that are marked as closed.
+     */
     public function readByClientAll(Client $client)
     {
         return $this
             ->where('client_id', $client->id)
+            ->where('status', 'closed')
             ->findAll();
     }
 
-    public function readByID(Purchase $purchase)
-    {
-
-
-    }
 
     //endregion
 
