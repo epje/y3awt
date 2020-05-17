@@ -206,7 +206,6 @@ class Cart extends ParentController
 
     public function checkoutPost()
     {
-        // TODO:
         if ($this->request->getMethod() == 'post') {
 
             $prepResult = $this->prepare(null, true, true, false);
@@ -219,9 +218,10 @@ class Cart extends ParentController
             }
 
             $cartModel = new CartModel();
-            return $this->respond($cartModel->checkout($client));
+            if ($cartModel->checkout($client)) {
+                return redirect()->to('/client/purchases');
+            }
         }
-
     }
 
     public function empty()

@@ -24,7 +24,6 @@ class Client extends ParentController
         }
     }
 
-
     public function profile()
     {
         // If the request to profile page is not secure, force it to be.
@@ -108,6 +107,7 @@ class Client extends ParentController
         }
     }
 
+    //region Account Login / Logout / Registration
     public function loginGet()
     {
         // If the request to login page is not secure, force it to be.
@@ -255,7 +255,6 @@ class Client extends ParentController
         }
     }
 
-
     public function register()
     {
         if (!$this->request->isSecure()) {
@@ -330,66 +329,6 @@ class Client extends ParentController
         }
     }
 
-    public function reset()
-    {
-        $this->auth();
-
-        $data = [
-            'title' => 'asda',
-            'author' => 'auth',
-            'description' => 'ad',
-            'keywords' => [],
-            'copyright' => 'aslkdj'
-        ];
-        echo view('templates/header', $data);
-        echo view('client/reset');
-        echo view('templates/footer');
-    }
-
-
-    /**
-     * @return \CodeIgniter\HTTP\RedirectResponse
-     * @todo Sort out how this is used in controller functions.
-     */
-    private function auth()
-    {
-        // If the request to login page is not secure, force it to be.
-        if (!$this->request->isSecure()) {
-            force_https();
-        }
-
-        // Check if the user is logged in.
-        if (!$this->session->get('loggedIn')) {
-            // If not, redirect to the login page and request login.
-            return redirect()->to('/client/login')->with('phone', 'Please sign in first!');
-        } else {
-            // Otherwise redirect to their profile.
-            return redirect()->to('client/profile');
-        }
-
-    }
-
-    // TODO: REMOVE BEFORE PRODUCTION.
-    public function delete($id)
-    {
-        $model = new ClientModel();
-        $client = new \App\Entities\Client($id);
-
-        $model->deleteByID($client);
-    }
-
-    // TODO: REMOVE BEFORE PRODUCTION.
-    public function read($id, $num = 0)
-    {
-        $clientModel = new ClientModel();
-        $client = new \App\Entities\Client(['id' => $id]);
-        if (!$client = $clientModel->readByID($client)) {
-            echo 'client does not exist or has been deleted.';
-        } else {
-            print('<pre>');
-            print_r($client);
-            print('</pre>');
-        }
-    }
+    //endregion
 
 }
