@@ -4,7 +4,7 @@
 namespace App\Entities;
 
 
-class ProductPurchaseJoin
+class ProductPurchaseJoinProduct
 {
 
 

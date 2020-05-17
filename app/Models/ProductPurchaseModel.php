@@ -57,11 +57,23 @@ class ProductPurchaseModel extends BaseModel
 
     //region READ METHODS
 
+    public function readProductQuantity(Purchase $purchase)
+    {
+        return $this
+            ->where('purchase_id', $purchase->id)
+            ->countAllResults();
+    }
+
+    public function readByPurchaseID(Purchase $purchase)
+    {
+        return $this;
+
+    }
+
     //endregion
 
 
     //region UPDATE METHODS
-
 
 
     //endregion

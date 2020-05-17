@@ -6,7 +6,7 @@ namespace App\Models;
 
 use App\Entities\Client;
 
-class CartProductJoinModel extends BaseModel
+class CartProductJoinProductModel extends BaseModel
 {
 
 

@@ -12,14 +12,16 @@ use CodeIgniter\I18n\Time;
                     <hr/>
                     <?php foreach ($purchases as $purchase): ?>
                         <div class="list-group list-group-flush">
-                            <a href="/purchase/<?= $purchase->id; ?>"
+                            <a href="/client/purchases/<?= $purchase->id; ?>"
                                class="list-group-item list-group-item-action flex-column align-items-start">
                                 <div class="d-flex w-100 justify-content-between">
-                                    <h5 class="mb-1">Purchase #<?= $purchase->id; ?></h5>
+                                    <h5 class="mb-1"><strong><?= Time::parse($purchase->created_at)->toLocalizedString('yyyy-MM-dd'); ?></strong></h5>
                                     <small><?= Time::parse($purchase->created_at)->humanize();; ?></small>
                                 </div>
-                                <p class="mb-1">Product Quantity:&nbsp;<?= $purchase->prodQuantity; ?></p>
+                                <p class="mb-1">Products:&nbsp;<?= $purchase->product_quantity; ?></p>
+                                <br>
                                 <small class="float-right">Status:&nbsp;<?= ucfirst($purchase->status); ?></small>
+                                <p>Grand Total: <kbd>&pound;<?= $purchase->price; ?></kbd></p>
                             </a>
                         </div>
                     <?php endforeach; ?>

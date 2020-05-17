@@ -1,7 +1,15 @@
 <?php namespace App\Controllers;
 
+use App\Entities\Purchase;
 use App\Models\ClientModel;
+use App\Models\ClientPurchasesModel;
+use App\Models\ProductPurchaseJoinProductModel;
+use App\Models\ProductPurchaseModel;
 use App\Models\PurchaseModel;
+
+use CodeIgniter\Exceptions\EmergencyError;
+use CodeIgniter\Exceptions\PageNotFoundException;
+use CodeIgniter\HTTP\RedirectResponse;
 
 class Client extends ParentController
 {
@@ -53,19 +61,8 @@ class Client extends ParentController
 
     }
 
-    /**
-     * @return \CodeIgniter\HTTP\RedirectResponse
-     * @todo Change signature to allow passing purchase ID + related function changes.
-     */
-    public function purchases()
+    public function purchases($purchaseID = null)
     {
-        // Prep
-        // Check if no purchases
-        //-> YES: echo empty view
-        // else
-        //-> Get list of purchases
-
-        // If the request to login page is not secure, force it to be.
         if (!$this->request->isSecure()) {
             force_https();
         }
@@ -78,36 +75,108 @@ class Client extends ParentController
 
         $client = new \App\Entities\Client(['id' => $this->session->get('clientID')]);
 
-        $purchaseModel = new PurchaseModel();
-        $purchases = $purchaseModel->readByClientAll($client);
+        if ((isset($purchaseID)) && ($purchaseID < 1)) {
+            log_message('error', '[ERROR] Client with id [{id}] tried accessing invalid purchase with id [{pid}]', ['id' => $client->id, 'pid' => $purchaseID]);
+            throw new PageNotFoundException("Couldn't find that purchase!");
+        }
 
-        $pageKeywords = ['client', 'login', 'login-page'];
-        $headerData = [
-            'author' => '17003804',
-            'copyright' => '',
-            'description' => 'Furniture Store Login Page',
-            'title' => "Login",
-            'keywords' => $pageKeywords,
-            'validation' => $this->validator
-            //'client.phone' => $this->session->get('client.phone')
-        ];
+        if (isset($purchaseID)) {
+            $purchase = new Purchase(['id' => $purchaseID]);
+            // Create and get purchase using ID
+            // If invalid for non exist, say non exist
+            // If invalid for not authorised, say not authorised for that purchase.
 
-        $purchasesListData = [
-            'purchases' => $purchases
-        ];
+            // Show list of products from the purchase and their details.
+            // Join product purchase and product
+            $purchaseModel = new PurchaseModel();
+            if ($purchaseDB = $purchaseModel->readByClientIDPurchaseID($client, $purchase)) {
 
-        if (!empty($purchases)) {
-            echo view('templates/header', $headerData);
-            echo view('client/purchases/list', $purchasesListData);
-            echo view('templates/footer');
+                $productPurchaseJoinProductModel = new ProductPurchaseJoinProductModel();
+                $products = $productPurchaseJoinProductModel->readByClientPurchase($client, $purchaseDB);
+
+                // *DERIVED* attribute of purchase price.
+                $subtotal = 0;
+                foreach ($products as $product) {
+                    $subtotal += $product->quantity * $product->price;
+                }
+
+                $taxRate = getenv('app.taxRate');
+                $purchaseData = [
+                    'purchase_date' => $purchaseDB->created_at,
+                    'products' => $products,
+                    'subtotal' => number_format($subtotal, 2),
+                    'tax_rate' => $taxRate,
+                    'tax_value' => number_format($taxRate * $subtotal, 2),
+                    'grand_total' => number_format((($taxRate * $subtotal) + $subtotal), 2)
+                ];
+
+                $pageKeywords = ['client', 'login', 'login-page'];
+                $headerData = [
+                    'author' => '17003804',
+                    'copyright' => '',
+                    'description' => 'Furniture Store Login Page',
+                    'title' => "Login",
+                    'keywords' => $pageKeywords,
+                    'validation' => $this->validator
+                    //'client.phone' => $this->session->get('client.phone')
+                ];
+                echo view('templates/header', $headerData);
+                echo view('client/purchases/purchase', $purchaseData);
+                echo view('templates/footer');
+
+            } else {
+                log_message('error', '[ERROR] Client with id [{id}] tried accessing a non-existent or other client\'s purchase with id [{purchase_id}]', ['id' => $client->id, 'purchase_id' => $purchaseID]);
+                throw new PageNotFoundException("Couldn't find that purchase!");
+            }
+
         } else {
-            echo view('templates/header', $headerData);
-            echo view('client/purchases/empty');
-            echo view('templates/footer');
+
+            // Get list of client's purchases.
+            // For each purchase, get the number of products held within
+            // and also the total cost of the purchase.
+
+            $purchaseModel = new PurchaseModel();
+            $purchases = $purchaseModel->readByClientAll($client);
+
+            $productPurchaseModel = new ProductPurchaseModel();
+
+            $purchasesData = [];
+            foreach ($purchases as $purchase) {
+                $purchase->product_quantity = $productPurchaseModel->readProductQuantity($purchase);
+                $purchase->grand_total = $purchaseModel->readPrice($purchase);
+
+//                $productPurchaseModel->read
+
+//                $purchase->grand_total =
+            }
+
+            $pageKeywords = ['client', 'purchases', 'purchase', 'list'];
+            $headerData = [
+                'author' => '17003804',
+                'copyright' => '',
+                'description' => 'Furniture Store Login Page',
+                'title' => "Purchases",
+                'keywords' => $pageKeywords
+            ];
+
+            $purchasesListData = [
+                'purchases' => $purchases
+            ];
+
+            // TODO: Do this in the view instead.
+            if (!empty($purchases)) {
+                echo view('templates/header', $headerData);
+                echo view('client/purchases/list', $purchasesListData);
+                echo view('templates/footer');
+            } else {
+                echo view('templates/header', $headerData);
+                echo view('client/purchases/empty');
+                echo view('templates/footer');
+            }
         }
     }
 
-    //region Account Login / Logout / Registration
+    //region Client Login / Logout / Registration
     public function loginGet()
     {
         // If the request to login page is not secure, force it to be.
