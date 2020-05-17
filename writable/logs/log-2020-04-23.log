@@ -1,0 +1,186 @@
+CRITICAL - 2020-04-23 09:29:33 --> Too few arguments to function App\Controllers\Client::reset(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-23 09:31:26 --> Undefined variable: title
+#0 C:\xampp\htdocs\app\Views\templates\header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(183): view('templates/heade...')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:31:46 --> Undefined variable: title
+#0 C:\xampp\htdocs\app\Views\templates\header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(186): view('templates/heade...')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:32:07 --> Undefined variable: title
+#0 C:\xampp\htdocs\app\Views\templates\header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(189): view('templates/heade...')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:32:15 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(189): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:32:24 --> Undefined variable: description
+#0 C:\xampp\htdocs\app\Views\templates\header.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 14, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(190): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:32:34 --> Undefined variable: keywords
+#0 C:\xampp\htdocs\app\Views\templates\header.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(191): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 09:32:41 --> implode(): Invalid arguments passed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'implode(): Inva...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\app\Views\templates\header.php(15): implode(', ', 'as')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\xampp\htdocs\app\Controllers\Client.php(192): view('templates/heade...', Array)
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-04-23 09:32:48 --> implode(): Invalid arguments passed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'implode(): Inva...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\app\Views\templates\header.php(15): implode(', ', 'as, 123')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#4 C:\xampp\htdocs\app\Controllers\Client.php(192): view('templates/heade...', Array)
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-04-23 09:32:53 --> Undefined variable: copyright
+#0 C:\xampp\htdocs\app\Views\templates\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(192): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->reset()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 11:24:45 --> Use of undefined constant phone - assumed 'phone' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\app\Views\client\index.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/index', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(29): view('client/index', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 11:25:09 --> Undefined variable: session
+#0 C:\xampp\htdocs\app\Views\client\index.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/index', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(29): view('client/index', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-23 11:42:26 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-04-23 11:42:28 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-04-23 11:42:29 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-04-23 11:42:30 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2020-04-23 11:43:08 --> Undefined variable: data
+#0 C:\xampp\htdocs\app\Controllers\Client.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-23 11:43:48 --> Undefined variable: pageKeywords
+#0 C:\xampp\htdocs\app\Controllers\Client.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-23 20:04:05 --> Too few arguments to function App\Controllers\Client::id(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->id()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-23 20:11:23 --> Illegal string offset 'phone'
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(235): App\Models\ClientModel->exists('3')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->read('3')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-23 20:18:15 --> Illegal string offset 'phone'
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(235): App\Models\ClientModel->exists('3')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->read('3')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-23 22:32:20 --> Too few arguments to function App\Controllers\Api::users(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Api->users()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-23 22:32:24 --> Too few arguments to function App\Controllers\Api::users(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Api->users()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

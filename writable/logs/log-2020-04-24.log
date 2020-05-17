@@ -1,0 +1,197 @@
+CRITICAL - 2020-04-24 10:26:25 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(118): App\Models\ClientModel->exists(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 10:34:47 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 10:42:34 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 10:47:53 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(178): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 178, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 10:53:19 --> Call to a member function where() on array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 11:14:32 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(182): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 182, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 11:14:51 --> Call to a member function getPassword() on array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 11:15:22 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(183): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 183, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 11:15:59 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(183): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 183, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 11:59:09 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(185): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 185, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 11:59:31 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(185): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 185, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 11:59:59 --> Undefined index: password
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(185): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 185, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:00:10 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(185): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 185, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:00:32 --> Array to string conversion
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(185): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 185, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:03:13 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(186): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 186, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:03:36 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(188): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 188, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:04:07 --> Call to a member function first() on array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 12:04:28 --> Trying to get property 'password' of non-object
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(191): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 191, Array)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(120): App\Models\ClientModel->login(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 12:07:45 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-24 12:12:27 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-24 12:57:18 --> Argument 1 passed to App\Models\ClientModel::readByPhone() must be an instance of App\Entities\Client, string given, called in C:\xampp\htdocs\app\Models\ClientModel.php on line 121
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(121): App\Models\ClientModel->readByPhone('912873918273981...')
+#1 C:\xampp\htdocs\app\Controllers\Client.php(118): App\Models\ClientModel->exists(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 14:40:41 --> Argument 1 passed to App\Models\ClientModel::readByPhone() must be an instance of App\Entities\Client, string given, called in C:\xampp\htdocs\app\Models\ClientModel.php on line 121
+#0 C:\xampp\htdocs\app\Models\ClientModel.php(121): App\Models\ClientModel->readByPhone('912873918273981...')
+#1 C:\xampp\htdocs\app\Controllers\Client.php(118): App\Models\ClientModel->exists(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-04-24 14:42:38 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-04-24 15:10:22 --> Argument 1 passed to App\Models\ClientModel::readByPhone() must be an instance of App\Entities\Client, string given, called in C:\xampp\htdocs\app\Controllers\Client.php on line 125
+#0 C:\xampp\htdocs\app\Controllers\Client.php(125): App\Models\ClientModel->readByPhone('0123456789')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-24 15:39:17 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-24 15:46:48 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

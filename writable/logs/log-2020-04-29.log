@@ -1,0 +1,878 @@
+INFO - 2020-04-29 09:44:43 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 09:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 09:44:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 09:44:52 --> Undefined variable: errors
+#0 C:\xampp\htdocs\app\Views\client\login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-29 09:46:27 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 09:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 09:48:13 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 09:48:13 --> Undefined variable: errors
+#0 C:\xampp\htdocs\app\Views\client\login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-29 09:48:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 09:48:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 09:49:01 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 09:49:05 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 09:49:05 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 09:49:05 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 09:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:09:21 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:09:21 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:09:21 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:10:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:10:32 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:10:33 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:10:33 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:10:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:10:44 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:10:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:10:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:10:58 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:11:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:13:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:13:16 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 10:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:13:18 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:13:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:13:31 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:13:31 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:13:31 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:15:22 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 10:15:22 --> Undefined variable: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-29 10:15:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:15:34 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:27:36 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:27:36 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:27:37 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:28:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:28:09 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:28:09 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:28:09 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:29:42 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 10:29:42 --> Undefined variable: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(52): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginGet()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-29 10:30:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:30:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:30:27 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:30:27 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:32:28 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:32:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:30 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:30 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:35 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:35 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:37 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:37 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:39 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:41 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:42 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:32:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:08 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:16 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:17 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:22 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:41 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:43 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:43 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:34:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:35:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:35:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:35:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:35:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:37:46 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 10:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:37:47 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:37:56 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:37:56 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:29 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:31 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:31 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:37 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:38:55 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:38:55 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-29 10:38:55 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:39:03 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:39:03 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:39:03 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:39:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 10:39:07 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 10:39:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:39:10 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 10:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:39:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:41:34 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:41:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:41:35 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:41:36 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 10:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 10:41:44 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 10:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:07:37 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:07:41 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:07:41 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:07:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:07:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:18 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:18 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:35 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:35 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:39 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:39 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:43 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:08:43 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:09:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:09:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:09:08 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:09:08 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:31:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:31:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:31:29 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:31:29 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:32:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:32:12 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:32:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:32:15 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:32:15 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:32:15 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:32:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:32:19 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:32:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:33:16 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:33:16 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:33:16 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:34:27 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:34:27 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:34:27 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:39:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:39:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:39:11 --> [NOTICE] login() called. $client->password = [password]. $dbClient->password = []
+NOTICE - 2020-04-29 11:39:11 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:39:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:40:31 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 11:40:31 --> Cannot use object of type App\Entities\Client as array
+#0 C:\xampp\htdocs\app\Controllers\Client.php(119): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-29 11:40:45 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 11:40:45 --> Call to undefined method App\Entities\Client::getPassword()
+#0 C:\xampp\htdocs\app\Controllers\Client.php(119): App\Models\ClientModel->login(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->loginPost()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-29 11:49:39 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:40 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-29 11:49:40 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:40 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:43 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:51 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:49:51 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:49:51 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:54 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:54 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-29 11:49:54 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:49:54 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:50:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:50:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:50:53 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:50:53 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-29 11:50:53 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:51:01 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:51:01 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 11:51:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:51:02 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:41 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 11:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:44 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:48 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:48 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:52:57 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:52:57 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-29 11:52:57 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:53:04 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-29 11:53:05 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:08 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:08 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 11:53:11 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 11:53:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:14 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:14 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-29 11:53:14 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:53:22 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:54:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:54:04 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:54:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:54:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:54:16 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 11:57:48 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 11:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:05:40 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2020-04-29 14:05:40 --> [ERROR] Unknown column 'password_hash' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-29 14:06:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:06:49 --> [INFO] User with id [4] registered successfully.
+INFO - 2020-04-29 14:06:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:07:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 14:07:46 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 14:07:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:07:56 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 14:07:56 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 14:07:56 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 14:08:07 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-29 14:08:07 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:09 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:29 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:30 --> [INFO] User with id [4] registered successfully.
+INFO - 2020-04-29 14:08:30 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-29 14:08:52 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-29 14:08:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:54 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:08:55 --> [INFO] User [4] logged in from [192.168.0.2].
+INFO - 2020-04-29 14:08:55 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:20:20 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 14:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:20:22 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:20:24 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:20:31 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 14:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:21:09 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 14:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 14:21:09 --> Undefined variable: title
+#0 C:\xampp\htdocs\app\Views\templates\header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(12): view('templates/heade...')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-29 14:21:40 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 14:21:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:27:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:27:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 14:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:27:24 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 14:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 14:28:14 --> Call to undefined method App\Controllers\Cart::initController()
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(393): CodeIgniter\CodeIgniter->createController()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+INFO - 2020-04-29 14:28:25 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:28:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:28:57 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:29:04 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:30:59 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:31:20 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:36:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:37:54 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:37:55 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:40:07 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:40:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 14:40:35 --> syntax error, unexpected ';', expecting ')'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('cart')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('cart')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-29 14:40:43 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:40:55 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:40:56 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:40:56 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:41:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:41:28 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:18 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:19 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:19 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:20 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:20 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:21 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:21 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:21 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:24 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:24 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:24 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:25 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:25 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:25 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:42:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:51:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 14:51:22 --> setcookie() expects parameter 2 to be string, array given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'setcookie() exp...', 'C:\\xampp\\htdocs...', 1026, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\HTTP\Response.php(1026): setcookie('cart', Array, 1588773082, '/', '', true, false)
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\HTTP\Response.php(690): CodeIgniter\HTTP\Response->sendCookies()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(1097): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(442): CodeIgniter\CodeIgniter->sendResponse()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-29 14:52:07 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 14:52:07 --> Call to undefined function App\Controllers\random_string()
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Cart->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-29 14:52:11 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:52:16 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:52:17 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:30 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:30 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:31 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:32 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:54:33 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:56:44 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:56:44 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:56:45 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:56:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:56:48 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 14:56:51 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 14:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:04:19 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:20 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:21 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:22 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:22 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:22 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:22 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:23 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:23 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:23 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:23 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:24 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:24 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:25 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:25 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:25 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:25 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:25 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:26 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:27 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:27 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:27 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:27 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:28 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:28 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:28 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:26:55 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 15:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:27:15 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 15:27:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:27:16 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 15:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:27:23 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 15:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:27:24 --> Controller "App\Controllers\Catalog" loaded.
+INFO - 2020-04-29 15:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:38:12 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:38:15 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:38:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:38:27 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:38:29 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:39:43 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:39:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:39:46 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 15:39:46 --> Array to string conversion
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 28, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Cart->show()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-29 15:39:57 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:40:03 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:40:04 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:40:04 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:40:45 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:40:50 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:41:18 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:41:20 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:43:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:43:24 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:44:01 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:44:02 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:44:33 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:44:34 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:44:45 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:45:04 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:45:32 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:45:35 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:45:58 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:45:59 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:47:55 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:47:56 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:48:02 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:48:11 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 15:48:15 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 15:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 16:00:38 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 16:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:41:51 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:42:01 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:43:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:43:28 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:44:28 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:44:45 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 17:44:46 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 17:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:02:18 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:02:57 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:03:08 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:03:09 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:03:11 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:03:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:06:08 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:06:11 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:07:03 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:07:10 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:07:13 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:56:39 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:57:59 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:57:59 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:58:04 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 18:58:06 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 18:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:36 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:38 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:39 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:40 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:40 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:40 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:43 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:48 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:03:49 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:06:40 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:06:43 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:06:53 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:07:03 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:20:06 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 19:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:20:09 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:20:23 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:22:17 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:22:18 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:22:21 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:22:26 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:22:27 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:23:27 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:23:32 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:23:40 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:23:43 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:42:36 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-04-29 19:42:36 --> Too few arguments to function App\Controllers\Cart::remove(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 910 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Cart->remove()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-29 19:43:00 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:22 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:24 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:30 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:31 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:34 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 19:43:36 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-29 19:43:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 22:39:50 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-29 22:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-29 22:45:03 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-29 22:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

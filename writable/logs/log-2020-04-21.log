@@ -1,0 +1,378 @@
+CRITICAL - 2020-04-21 11:35:46 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:54:47 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:55:13 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:56:14 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:57:04 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:57:20 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:57:21 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 13:57:49 --> Undefined index: password
+#0 C:\xampp\htdocs\app\Views\client\login.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:18:09 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:16 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:20 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:21 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:21 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:21 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:26 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:26 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:18:26 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:19:54 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:20:07 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:20:07 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:20:08 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:20:08 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:20:09 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:22:04 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:22:57 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\app\Views\client\login.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:51:22 --> Call to a member function hasError() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:51:38 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\app\Views\client\login.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:52:17 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\app\Views\client\login.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:55:45 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\app\Views\client\login.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to acces...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:55:53 --> Undefined index: phone
+#0 C:\xampp\htdocs\app\Views\client\login.php(23): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 23, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-04-21 14:58:48 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:58:56 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:59:00 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 14:59:04 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:04:22 --> Call to a member function getErrors() on array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:04:33 --> Call to a member function getErrors() on array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:04:50 --> Call to a member function getErrors() on array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:04:57 --> Call to a member function getErrors() on array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:05:04 --> Call to a member function getErrors() on null
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(236): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1071): CodeIgniter\View\View->render('client/login', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Client.php(110): view('client/login', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(910): App\Controllers\Client->login()
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-04-21 15:28:40 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('api')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('api')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-21 20:17:48 --> syntax error, unexpected ')', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('api')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('api')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

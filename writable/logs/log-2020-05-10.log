@@ -1,0 +1,1922 @@
+INFO - 2020-05-10 08:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:42:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-05-10 08:42:36 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-05-10 08:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:42:39 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 08:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:44:39 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 08:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:45:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 08:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 09:15:36 --> syntax error, unexpected '$', expecting variable (T_VARIABLE)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('product/categor...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('product/categor...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-10 09:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-05-10 09:21:22 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-05-10 09:21:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 09:44:19 --> syntax error, unexpected '=', expecting ']'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Prod...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Prod...')
+#3 C:\xampp\htdocs\app\Controllers\Product.php(95): spl_autoload_call('App\\Models\\Prod...')
+#4 C:\xampp\htdocs\app\Controllers\Product.php(26): App\Controllers\Product->prepare(122)
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Product->id(122)
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-05-10 09:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 09:47:42 --> Argument 1 passed to App\Controllers\Product::id() must be of the type int, string given, called in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Product->id('f')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 09:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 09:59:15 --> Argument 1 passed to App\Controllers\Product::prepare() must be of the type int or null, string given, called in C:\xampp\htdocs\app\Controllers\Product.php on line 41
+#0 C:\xampp\htdocs\app\Controllers\Product.php(41): App\Controllers\Product->prepare('bathroom')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Product->category('bathroom')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-10 09:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 09:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:01:47 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:01:57 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living%60'
+INFO - 2020-05-10 10:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:02:05 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'ajdhaskjhd'
+INFO - 2020-05-10 10:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:02:07 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'bathroom'
+INFO - 2020-05-10 10:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:02:26 --> [DEBUG] readByCategory(): SELECT *-
+FROM `product`
+WHERE `category` = 'bathroom'
+INFO - 2020-05-10 10:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:13 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'dasd'
+INFO - 2020-05-10 10:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:16 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'bth'
+INFO - 2020-05-10 10:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:19 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'bathroom'
+INFO - 2020-05-10 10:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'bathroom'
+DEBUG - 2020-05-10 10:03:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'bathroom'
+INFO - 2020-05-10 10:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:38 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living%60'
+INFO - 2020-05-10 10:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:03:40 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+DEBUG - 2020-05-10 10:03:40 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:21:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+DEBUG - 2020-05-10 10:21:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:22:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+DEBUG - 2020-05-10 10:22:31 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:23:07 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+DEBUG - 2020-05-10 10:23:07 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:23:52 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+DEBUG - 2020-05-10 10:23:52 --> [DEBUG] readByCategory(): SELECT *
+FROM `product`
+WHERE `category` = 'living'
+INFO - 2020-05-10 10:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:22 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 10:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:34:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:34:37 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:34:37 --> [DEBUG] getProducts(Cart(19)) called in CartProductModel.
+INFO - 2020-05-10 10:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:34:46 --> [DEBUG] deleteCart($client[3]) called from CartModel.
+INFO - 2020-05-10 10:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:34:50 --> [DEBUG] Client with id [3] does not have a cart.
+DEBUG - 2020-05-10 10:34:50 --> [DEBUG] Creating cart for client with id [3].
+DEBUG - 2020-05-10 10:34:50 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:34:54 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:34:54 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:34:54 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:34:54 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:34:54 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 10:35:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] Cart with id [20] already has Product with id [1].
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:09 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 10:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:14 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:14 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:18 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:18 --> [DEBUG] readByCP() called in CartProductModel.
+INFO - 2020-05-10 10:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:20 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:20 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:24 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:35:24 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:24 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:24 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:24 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 10:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:27 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:27 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] Cart with id [20] already has Product with id [1].
+DEBUG - 2020-05-10 10:35:32 --> [DEBUG] readByCP() called in CartProductModel.
+INFO - 2020-05-10 10:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:34 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:34 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] Cart with id [20] already has Product with id [1].
+DEBUG - 2020-05-10 10:35:39 --> [DEBUG] readByCP() called in CartProductModel.
+INFO - 2020-05-10 10:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:35:42 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:35:42 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:36:07 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 10:36:07 --> [DEBUG] getProducts(Cart(20)) called in CartProductModel.
+INFO - 2020-05-10 10:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:36:09 --> [DEBUG] deleteCart($client[3]) called from CartModel.
+INFO - 2020-05-10 10:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:36:12 --> [DEBUG] Client with id [3] does not have a cart.
+DEBUG - 2020-05-10 10:36:12 --> [DEBUG] Creating cart for client with id [3].
+DEBUG - 2020-05-10 10:36:12 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 10:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:45 --> [INFO] User [5] logged in from [192.168.0.2].
+INFO - 2020-05-10 10:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:36:48 --> [DEBUG] Client with id [5] does not have a cart.
+DEBUG - 2020-05-10 10:36:48 --> [DEBUG] Creating cart for client with id [5].
+DEBUG - 2020-05-10 10:36:48 --> [DEBUG] getProducts(Cart(22)) called in CartProductModel.
+INFO - 2020-05-10 10:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:38:18 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:38:18 --> [DEBUG] Client with id [5] already has a cart.
+DEBUG - 2020-05-10 10:38:18 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:38:18 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:38:18 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 10:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:38:21 --> [DEBUG] Client with id [5] already has a cart.
+DEBUG - 2020-05-10 10:38:21 --> [DEBUG] getProducts(Cart(22)) called in CartProductModel.
+INFO - 2020-05-10 10:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 10:38:26 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 10:38:26 --> [DEBUG] Client with id [5] already has a cart.
+DEBUG - 2020-05-10 10:38:26 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 10:38:26 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 10:38:26 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 10:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:42:45 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(16): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 10:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:42:48 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 10:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:42:56 --> Undefined variable: title
+#0 C:\xampp\htdocs\app\Views\templates\header.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(23): view('templates/heade...')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product('1')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 10:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:43:34 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(25): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product('1')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 10:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:44:23 --> Undefined variable: copyright
+#0 C:\xampp\htdocs\app\Views\templates\header.php(21): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(29): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product('1')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 10:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 10:44:54 --> Invalid file: templates/product.php
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/produ...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/produ...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Catalog.php(31): view('templates/produ...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product('1')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-05-10 10:45:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 10:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 11:39:23 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 11:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:41:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 11:43:01 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 11:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:38 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 11:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:44:43 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:44:43 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 11:44:57 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 11:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:45:01 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:45:01 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:51:42 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:51:42 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:51:53 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:51:53 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:52:44 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:52:44 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:52:45 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:52:45 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:52:46 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:52:46 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:57 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 11:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:04 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 11:58:04 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:04 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:04 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:04 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 11:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:08 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:08 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:09 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 11:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:13 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 11:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 11:58:14 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 11:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 11:58:30 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 11:58:30 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 11:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 11:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 13:36:50 --> file_get_contents(): read of 8192 bytes failed with errno=13 Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'file_get_conten...', 'C:\\xampp\\htdocs...', 111, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Debug\Toolbar\Collectors\History.php(111): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1589114210, 20)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Debug\Toolbar.php(455): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\app\Config\Events.php(44): CodeIgniter\Debug\Toolbar->respond()
+#5 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Events\Events.php(188): call_user_func(Object(Closure))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(289): CodeIgniter\Events\Events::trigger('pre_system')
+#8 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-05-10 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 13:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:24:30 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 14:24:30 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:24:30 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 14:24:30 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 14:24:30 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 14:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:25:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:50:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 14:52:58 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 14:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 14:53:10 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 14:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:53:13 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:53:13 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 14:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:54:51 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:54:51 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 14:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:54:51 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:54:51 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 14:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 14:54:52 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 14:54:52 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 14:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 14:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:00:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:10:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:10:03 --> Undefined variable: product_id
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(182): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 182, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:37:39 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:37:46 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living2')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:37:49 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:58:01 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:58:08 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(16): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:58:13 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 15:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 15:59:37 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('bathroom')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 15:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 16:01:19 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('bathroom')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 16:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 16:01:20 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(16): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 16:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:13:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:44:19 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 16:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:45:41 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:45:41 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 16:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] Cart with id [21] already has Product with id [1].
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:45:49 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 16:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 16:45:57 --> Too few arguments to function App\Controllers\Cart::add(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and at least 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 16:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:01 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:46:01 --> [DEBUG] getProducts(Cart(21)) called in CartProductModel.
+INFO - 2020-05-10 16:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:07 --> [DEBUG] deleteCart($client[3]) called from CartModel.
+INFO - 2020-05-10 16:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:10 --> [DEBUG] deleteCart($client[3]) called from CartModel.
+INFO - 2020-05-10 16:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:14 --> [DEBUG] Client with id [3] does not have a cart.
+DEBUG - 2020-05-10 16:46:14 --> [DEBUG] Creating cart for client with id [3].
+DEBUG - 2020-05-10 16:46:14 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 16:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:19 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 16:46:19 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:46:19 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 16:46:19 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:46:19 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 16:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:26 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:46:26 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 16:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] Cart with id [23] already has Product with id [1].
+DEBUG - 2020-05-10 16:46:38 --> [DEBUG] readByCP() called in CartProductModel.
+INFO - 2020-05-10 16:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] Cart with id [23] already has Product with id [1].
+DEBUG - 2020-05-10 16:49:34 --> [DEBUG] readByCP() called in CartProductModel.
+INFO - 2020-05-10 16:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:49:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 16:49:50 --> Argument 1 passed to App\Controllers\Product::id() must be of the type int, string given, called in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Product->id('X')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 16:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:02 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 17:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:12 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:12 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:13 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:13 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:16 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:16 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:12:17 --> [DEBUG] getProducts(Cart(23)) called in CartProductModel.
+INFO - 2020-05-10 17:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:12:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:23 --> [DEBUG] Client with id [3] does not have a cart.
+DEBUG - 2020-05-10 17:20:23 --> [DEBUG] Creating cart for client with id [3].
+DEBUG - 2020-05-10 17:20:23 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:26 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:26 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:28 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:29 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:29 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:29 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:29 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:47 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:47 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:20:47 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:20:47 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:23:38 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 17:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:03 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:25:03 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:03 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:03 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:03 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:12 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:12 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:25 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:27 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:27 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:34 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:34 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:41 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:25:41 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:41 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:41 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:25:41 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:25:43 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:25:43 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:28:01 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:31:31 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:31:38 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:31:38 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:31:46 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:31:46 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:05 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:34:09 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:34:09 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:34:17 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:34:18 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:34:18 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 17:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:35:06 --> Too few arguments to function App\Controllers\Catalog::category(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 17:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:35:08 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living2')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:35:10 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:36:32 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:36:33 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(70): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 70, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(60): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living2')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:36:33 --> Too few arguments to function App\Controllers\Catalog::category(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 17:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:48:18 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(67): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('all')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:48:21 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(67): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living2')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:48:23 --> Undefined variable: catagory
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(67): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 17:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 17:55:13 --> Cannot use object of type App\Entities\Product as array
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#2 C:\xampp\htdocs\app\Controllers\Catalog.php(67): view('catalog/categor...', Array)
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-05-10 17:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:57:50 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 17:58:53 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 17:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 17:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:00:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:01:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:32 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:51 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:01:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:01:58 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:02:02 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:02:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:12 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:13 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:14 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:33 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:08:51 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:09:57 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:10:04 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:10:04 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 18:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:10:11 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:10:11 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:10:11 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:10:11 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:10:11 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:10:13 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:10:13 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 18:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:10:15 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 18:10:15 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:10:15 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 18:10:15 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 18:10:15 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 18:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 18:10:16 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 18:10:16 --> [DEBUG] getProducts(Cart(24)) called in CartProductModel.
+INFO - 2020-05-10 18:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:23:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:35:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:40:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 18:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 19:02:39 --> syntax error, unexpected 'endif' (T_ENDIF), expecting end of file
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('client/register', Array, true)
+#1 C:\xampp\htdocs\app\Controllers\Client.php(263): view('client/register')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Client->register()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-10 19:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:09:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 19:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:05:48 --> Too few arguments to function App\Controllers\Catalog::category(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:09:31 --> Too few arguments to function App\Controllers\Catalog::category(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:10:00 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:12:59 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(18): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 20:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:13:46 --> 
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('asdasd')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:14:44 --> Wrong parameters for CodeIgniter\Exceptions\PageNotFoundException([string $message [, long $code [, Throwable $previous = NULL]]])
+#0 C:\xampp\htdocs\app\Controllers\Catalog.php(59): Exception->__construct('No products fou...', '404', 'Not foundSS!')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('asdasd')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-10 20:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:17:55 --> Too few arguments to function App\Controllers\Catalog::product(), 0 passed in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914 and exactly 1 expected
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->product()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:19:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:19:30 --> Argument 1 passed to App\Controllers\Cart::add() must be of the type int, string given, called in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('undefined', '1')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2020-05-10 20:35:05 --> mysqli_sql_exception: Unknown column 'img_path' in 'field list' in C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:331
+Stack trace:
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `id`, `n...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`, `n...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`, `n...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `n...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\Models\ProductModel.php(95): CodeIgniter\Model->findAll()
+#6 C:\xampp\htdocs\app\Controllers\Catalog.php(56): App\Models\ProductModel->readByCategory(Object(App\Entities\Product))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-05-10 20:35:05 --> Unknown column 'img_path' in 'field list'
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT `id`, `n...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`, `n...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`, `n...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1845): CodeIgniter\Database\BaseConnection->query('SELECT `id`, `n...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app\Models\ProductModel.php(95): CodeIgniter\Model->findAll()
+#6 C:\xampp\htdocs\app\Controllers\Catalog.php(56): App\Models\ProductModel->readByCategory(Object(App\Entities\Product))
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-05-10 20:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:41:46 --> Argument 1 passed to App\Controllers\Cart::add() must be of the type int, string given, called in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('undefined', '1')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:41:47 --> Argument 1 passed to App\Controllers\Cart::add() must be of the type int, string given, called in C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php on line 914
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('undefined', '1')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-10 20:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:10 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 20:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:17 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:17 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:17 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:17 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:17 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:21 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:24 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:32 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:38 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:39 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:45 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:42:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:42:49 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:45:48 --> Use of undefined constant session - assumed 'session' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(76): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 20:46:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:46:37 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(76): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 20:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:47:35 --> Undefined property: CodeIgniter\View\View::$session
+#0 C:\xampp\htdocs\app\Views\catalog\category.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('catalog/categor...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(76): view('catalog/categor...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->category('living')
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 20:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] Cart with id [24] already has Product with id [5].
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 20:47:49 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 20:47:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 20:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-10 20:47:54 --> Undefined variable: author
+#0 C:\xampp\htdocs\app\Views\templates\header.php(13): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Common.php(1087): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#3 C:\xampp\htdocs\app\Controllers\Catalog.php(16): view('templates/heade...', Array)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Catalog->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Catalog))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-10 20:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:37 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-10 21:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:05 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 21:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:07 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 21:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:14:14 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-10 21:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-10 21:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] addProduct() called from CartModel.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] Client with id [3] already has a cart.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] Cart with id [24] already has Product with id [1].
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-10 21:54:58 --> [DEBUG] addProduct() called from Cart.

@@ -1,0 +1,122 @@
+INFO - 2020-04-30 08:48:08 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 08:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 08:48:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 08:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 09:29:12 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 09:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:19:06 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 10:19:06 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-30 10:19:06 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:19:09 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:20:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:20:25 --> [INFO] User with id [3] registered successfully.
+INFO - 2020-04-30 10:20:25 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:22:51 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:22:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:23:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:23:11 --> [INFO] User with id [4] registered successfully.
+INFO - 2020-04-30 10:23:11 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:41:50 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:41:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:42:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:42:19 --> [INFO] User with id [5] registered successfully.
+INFO - 2020-04-30 10:42:19 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:42:52 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:42:52 --> [INFO] User [5] logged in from [192.168.0.2].
+INFO - 2020-04-30 10:42:53 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:42:56 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 10:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 10:45:23 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 10:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 15:04:39 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-30 15:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 15:04:41 --> Controller "App\Controllers\Cart" loaded.
+INFO - 2020-04-30 15:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 20:55:55 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 20:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:40:22 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:41:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 21:41:46 --> [NOTICE] Failed login attempt with non-existent phone number from IP [192.168.0.2].
+INFO - 2020-04-30 21:41:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:41:51 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 21:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:14 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 21:42:14 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-30 21:42:14 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 21:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:17 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 21:42:23 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-30 21:42:23 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:26 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:26 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 21:42:28 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-30 21:42:28 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:33 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:33 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-30 21:42:33 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:36 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:42:36 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 21:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:36 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:39 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:48 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:49 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:55 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:55 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-04-30 21:45:55 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:45:58 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:46:01 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:46:01 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:46:13 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:46:13 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 21:46:17 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+NOTICE - 2020-04-30 21:46:17 --> [NOTICE] Failed login attempt with incorrect password from IP [192.168.0.2].
+INFO - 2020-04-30 21:46:17 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 21:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 22:41:46 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 22:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 22:41:46 --> Controller "App\Controllers\Home" loaded.
+INFO - 2020-04-30 22:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-04-30 22:41:48 --> Controller "App\Controllers\Client" loaded.
+INFO - 2020-04-30 22:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

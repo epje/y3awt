@@ -1,0 +1,1157 @@
+INFO - 2020-05-06 15:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:51:17 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-06 15:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 15:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 15:51:25 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 15:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 15:53:26 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 15:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 15:53:54 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 15:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 15:54:06 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:13:14 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:14:05 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$client_id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:14:06 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$client_id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:15:39 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$client_id
+#0 C:\xampp\htdocs\app\Models\CartModel.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(41): App\Models\CartModel->createProduct(Object(App\Entities\Client), Object(App\Entities\Product), '2')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->add('1', '2')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:21:57 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-06 16:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:22:53 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:23:19 --> Undefined property: App\Controllers\Cart::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:24:07 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 28
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(28): CodeIgniter\Entity->__construct(Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:24:08 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 28
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(28): CodeIgniter\Entity->__construct(Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:25:35 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:25:36 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 30, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:26:32 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:27:43 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:28:08 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:28:47 --> Client with id [3] already has a cart.
+CRITICAL - 2020-05-06 16:28:47 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 16:36:28 --> Return value of App\Models\CartModel::cartExists() must be of the type bool, none returned
+#0 C:\xampp\htdocs\app\Models\CartModel.php(59): App\Models\CartModel->cartExists(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\app\Controllers\Cart.php(32): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-05-06 16:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:42:24 --> Client with id [3] does not have a cart.
+CRITICAL - 2020-05-06 16:42:24 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:46:19 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 16:46:19 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 16:46:19 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:46:20 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 16:46:20 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 16:46:20 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:46:20 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 16:46:20 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 16:46:20 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:57:46 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 16:57:46 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 16:57:46 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 16:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 16:57:46 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 16:57:46 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 16:57:46 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:03:03 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:03:03 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:03:03 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:14:23 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:14:23 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:14:23 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(33): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:16:39 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:16:39 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:16:39 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(31): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:16:40 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:16:40 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:16:40 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(31): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:16:42 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:16:42 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:16:42 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(31): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:17:30 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:17:30 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:17:30 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:18:59 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:18:59 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:18:59 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(31): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:19:00 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:19:00 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:19:00 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(31): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 17:33:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:33:32 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 17:33:32 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 17:33:32 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:56:22 --> Call to a member function select() on null
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): App\Models\ClientModel->readByID(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:56:46 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:57:46 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:57:46 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:57:46 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:57:46 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:58:29 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:52 --> [INFO] User [4] logged in from [192.168.0.2].
+INFO - 2020-05-06 17:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 17:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:58:57 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:59:11 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:59:12 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 17:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 17:59:12 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(CodeIgniter\Database\MySQLi\Result))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:35 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:37 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:37 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:37 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:38 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:39 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:39 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:05:39 --> Argument 1 passed to CodeIgniter\Entity::__construct() must be of the type array or null, object given, called in C:\xampp\htdocs\app\Controllers\Cart.php on line 24
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(24): CodeIgniter\Entity->__construct(Object(App\Entities\Client))
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:08:12 --> Client with id [4] does not have a cart.
+INFO - 2020-05-06 18:08:12 --> Creating cart for user with id [4].
+CRITICAL - 2020-05-06 18:08:12 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:09:50 --> Client with id [4] does not have a cart.
+INFO - 2020-05-06 18:09:50 --> Creating cart for user with id [4].
+CRITICAL - 2020-05-06 18:09:50 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:10:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:02 --> Client with id [4] does not have a cart.
+INFO - 2020-05-06 18:10:02 --> Creating cart for user with id [4].
+CRITICAL - 2020-05-06 18:10:02 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:06 --> Client with id [4] does not have a cart.
+INFO - 2020-05-06 18:10:06 --> Creating cart for user with id [4].
+CRITICAL - 2020-05-06 18:10:06 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 18:14:01 --> syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or '{' or ','
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('cart')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('cart')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:27 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-06 18:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:24:30 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:24:30 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:24:30 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:32:07 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:32:07 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:32:07 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:32:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:32:19 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:32:19 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:32:19 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:32:30 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:32:30 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:32:30 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:50:03 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:50:03 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:50:03 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:50:03 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:50:03 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:50:03 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:50:35 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:50:35 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:50:35 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 36, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 18:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 18:54:48 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 18:54:48 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 18:54:48 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:00:00 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:00:00 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:00:00 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2020-05-06 19:00:33 --> Call to undefined method App\Models\CartModel::getCart
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(36): CodeIgniter\Model->__call('getCart', Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:00:40 --> Client with id [3] already has a cart.
+CRITICAL - 2020-05-06 19:00:40 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$id
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:01:31 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:01:31 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:01:31 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:02:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:02:44 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:02:44 --> Creating cart for user with id [3].
+INFO - 2020-05-06 19:02:44 --> Cart creation for user with id [3] failed - insert() returned false.
+CRITICAL - 2020-05-06 19:02:44 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:07:10 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:07:10 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:07:10 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(65): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(36): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 19:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:08:43 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:08:43 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:08:43 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(71): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(36): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 19:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:10:08 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:10:08 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:10:08 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(72): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(36): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 19:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:10:26 --> Client with id [3] does not have a cart.
+INFO - 2020-05-06 19:10:26 --> Creating cart for user with id [3].
+CRITICAL - 2020-05-06 19:10:26 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(71): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(36): App\Models\CartModel->getCart(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 19:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:10:47 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:10:47 --> There is no data to update.
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(831): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(549): CodeIgniter\Model->update(Array, Array)
+#2 C:\xampp\htdocs\app\Models\CartModel.php(55): CodeIgniter\Model->save(Object(App\Entities\Client))
+#3 C:\xampp\htdocs\app\Controllers\Cart.php(39): App\Models\CartModel->testSave(Object(App\Entities\Client))
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#5 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-05-06 19:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:19:54 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:19:54 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:18 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:18 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:19 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:19 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:19 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:19 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:26 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:26 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:26 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:26 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:27 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:27 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:42 --> testSave($client[id = 1])
+CRITICAL - 2020-05-06 19:20:42 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:42 --> testSave($client[id = 1])
+CRITICAL - 2020-05-06 19:20:42 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:53 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:53 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:54 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:54 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:54 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:54 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:54 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:54 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:54 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:54 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:55 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:55 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:20:55 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:20:55 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:35 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:35 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:36 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:36 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:36 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:36 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:37 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:37 --> Trying to get property 'id' of non-object
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:47 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:47 --> Undefined variable: clientCart
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:48 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:48 --> Undefined variable: clientCart
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:21:48 --> testSave($client[id = 3])
+CRITICAL - 2020-05-06 19:21:48 --> Undefined variable: clientCart
+#0 C:\xampp\htdocs\app\Controllers\Cart.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-06 19:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:22:01 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:22:03 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:22:03 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:32:34 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:32:56 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:26 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-06 19:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:28 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:33:54 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:40:24 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:40:45 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:42:29 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:42:50 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:10 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-06 19:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:43:13 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:44:49 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:45:17 --> testSave($client[id = 3])
+ERROR - 2020-05-06 19:45:17 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`awt`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `client` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:331
+Stack trace:
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ca...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\Models\CartModel.php(56): CodeIgniter\Model->insert(Array, true)
+#6 C:\xampp\htdocs\app\Controllers\Cart.php(39): App\Models\CartModel->testSave(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-05-06 19:45:17 --> Cannot add or update a child row: a foreign key constraint fails (`awt`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `client` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ca...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\Models\CartModel.php(56): CodeIgniter\Model->insert(Array, true)
+#6 C:\xampp\htdocs\app\Controllers\Cart.php(39): App\Models\CartModel->testSave(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-05-06 19:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:47:35 --> testSave($client[id = 3])
+ERROR - 2020-05-06 19:47:35 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`awt`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `client` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:331
+Stack trace:
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ca...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\Models\CartModel.php(56): CodeIgniter\Model->insert(Array, true)
+#6 C:\xampp\htdocs\app\Controllers\Cart.php(39): App\Models\CartModel->testSave(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2020-05-06 19:47:35 --> Cannot add or update a child row: a foreign key constraint fails (`awt`.`cart`, CONSTRAINT `cart_ibfk_1` FOREIGN KEY (`client_id`) REFERENCES `client` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+#0 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ca...')
+#1 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2234): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\xampp\htdocs\vendor\codeigniter4\framework\system\Model.php(729): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\app\Models\CartModel.php(56): CodeIgniter\Model->insert(Array, true)
+#6 C:\xampp\htdocs\app\Controllers\Cart.php(39): App\Models\CartModel->testSave(Array)
+#7 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(914): App\Controllers\Cart->index()
+#8 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cart))
+#9 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2020-05-06 19:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:49:14 --> testSave($client[id = 3])
+INFO - 2020-05-06 19:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-06 19:49:20 --> testSave($client[id = 3])
