@@ -2,4 +2,5 @@
 composer.lock
 package-lock.json
 app/Config/App.php
-writable
+writable/
+!writable/uploads

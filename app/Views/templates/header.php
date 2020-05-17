@@ -3,6 +3,7 @@ $session = \Config\Services::session();
 $title = getenv('app.name') . ' - ' . $title;
 
 
+
 ?>
 <!doctype html>
 <html lang="en">
@@ -79,6 +80,7 @@ $title = getenv('app.name') . ' - ' . $title;
                     <?php if ($session->get('loggedIn')): ?>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="/client/profile"><i class="fas fa-user-cog"></i>&nbsp;Profile</a>
+                            <a class="dropdown-item" href="/client/purchases"><i class="fas fa-pound-sign"></i>&nbsp;Purchases</a>
                             <div class="dropdown-divider"></div>
                             <a class="dropdown-item" href="/client/logout"><i class="fas fa-sign-out-alt"></i>&nbsp;Log
                                 Out</a>
@@ -96,8 +98,8 @@ $title = getenv('app.name') . ' - ' . $title;
                 </li>
                 <?php if ($session->get('loggedIn')): ?>
                     <li class="nav-item">
-                        <a class="nav-link"><i class="fas fa-shopping-cart"></i>&nbsp;Cart
-                            <span class="badge badge-pill badge-primary">$num</span>
+                        <a class="nav-link text-success" href="/cart"><i class="fas fa-shopping-cart"></i>&nbsp;Cart
+<!--                            <span class="badge badge-pill badge-primary">$num</span>-->
                         </a>
                     </li>
                 <?php endif; ?>
