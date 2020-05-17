@@ -8,4 +8,8 @@ class Purchase extends Entity
     protected $client_id;
     protected $status;
 
+    // Derived attributes
+    protected $product_quantity;
+    protected $grand_total;
+
 }

@@ -106,7 +106,7 @@ class PurchaseModel extends BaseModel
 
     /**
      * @param Client $client
-     * @return array An array of purchases that are marked as closed.
+     * @return array An array of clients' purchases that are marked as closed.
      */
     public function readByClientAll(Client $client)
     {
@@ -116,6 +116,24 @@ class PurchaseModel extends BaseModel
             ->findAll();
     }
 
+    public function readByClientIDPurchaseID(Client $client, Purchase $purchase)
+    {
+        return $this
+            ->where('client_id', $client->id)
+            ->where('id', $purchase->id)
+            ->first();
+    }
+
+    public function readPrice(Purchase $purchase)
+    {
+        $productPurchaseModel = new ProductPurchaseModel();
+        $products = $this->read
+    }
+
+    public function readByID(Purchase $purchase)
+    {
+        return $this->find($purchase->id);
+    }
 
     //endregion
 

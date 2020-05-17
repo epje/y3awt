@@ -2603,3 +2603,70 @@ CRITICAL - 2020-05-14 19:13:45 --> syntax error, unexpected '}', expecting '('
 #6 C:\xampp\htdocs\vendor\codeigniter4\framework\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #7 C:\xampp\htdocs\public\index.php(45): CodeIgniter\CodeIgniter->run()
 #8 {main}
+INFO - 2020-05-14 16:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:10 --> [INFO] User [3] logged in from [192.168.0.2].
+INFO - 2020-05-14 16:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2020-05-14 16:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] \App\Models\CartModel - addProduct() called.
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] \App\Models\CartModel - Client with id [3] does not have a cart.
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] \App\Models\CartModel - Creating cart for client with id [3].
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:13 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-14 16:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:14 --> [DEBUG] \App\Models\CartModel - addProduct() called.
+DEBUG - 2020-05-14 16:54:14 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:14 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:14 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:14 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-14 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] \App\Models\CartModel - addProduct() called.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-14 16:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] \App\Models\CartModel - addProduct() called.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] Cart with id [7] already has Product with id [5].
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:15 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-14 16:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:17 --> [DEBUG] \App\Models\CartModel - addProduct() called.
+DEBUG - 2020-05-14 16:54:17 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:17 --> [DEBUG] createProduct() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:17 --> [DEBUG] readByCP() called in CartProductModel.
+DEBUG - 2020-05-14 16:54:17 --> [DEBUG] addProduct() called from Cart.
+INFO - 2020-05-14 16:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:18 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:18 --> [DEBUG] getProducts(Cart(7)) called in CartProductModel.
+DEBUG - 2020-05-14 16:54:18 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+INFO - 2020-05-14 16:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] getProducts(Cart(7)) called in CartProductModel.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - Client with id [3] already has a cart.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] getProducts(Cart(7)) called in CartProductModel.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] Client with id [3] does not have a cart.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] Creating new purchase for client with id [3]
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - Entering foreach(cart as product)
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - foreach(cart(7) as product())
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] App\ModelsProductPurchaseModel - createProductPurchase() called.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - foreach(cart(7) as product())
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] App\ModelsProductPurchaseModel - createProductPurchase() called.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - foreach(cart(7) as product())
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] App\ModelsProductPurchaseModel - createProductPurchase() called.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - foreach(cart(7) as product())
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] App\ModelsProductPurchaseModel - createProductPurchase() called.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\PurchaseModel - closePurchase(client->3) called.
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] PurchaseModel.php - Client with id [3] already has an open purchase.
+DEBUG - 2020-05-14 16:54:22 --> lll
+DEBUG - 2020-05-14 16:54:22 --> [DEBUG] \App\Models\CartModel - deleteCart($client->3) called.
+INFO - 2020-05-14 16:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

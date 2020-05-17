@@ -4,7 +4,7 @@ use App\Entities\Client;
 use App\Entities\Product;
 
 use App\Models\CartModel;
-use App\Models\CartProductJoinModel;
+use App\Models\CartProductJoinProductModel;
 use App\Models\ClientModel;
 use App\Models\ProductModel;
 
@@ -32,7 +32,7 @@ class Cart extends ParentController
             $cartPrice += $product->price;
         }
 
-        $taxRate = 0.2;
+        $taxRate = getenv('app.taxRate');
         $checkoutData = [
             'products' => $products,
             'subtotal' => number_format($cartPrice, 2),
@@ -77,7 +77,7 @@ class Cart extends ParentController
             return $this->failNotFound('Cart is empty.');
         }
 
-        $cartProductJoin = new CartProductJoinModel();
+        $cartProductJoin = new CartProductJoinProductModel();
         return $cartProductJoin->readContentsAll($client);
 
     }
