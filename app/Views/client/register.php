@@ -13,17 +13,14 @@ $titleOptions = [
 
 ?>
 <style>
-
-    .card-login {
-        border-radius: 2rem;
-        box-shadow: 0 2rem 2rem 0 rgba(0, 0, 0, 0.1);
+    .card-register {
+        border-radius: 1rem;
     }
-
 </style>
 <div class="container">
     <div class="row">
         <div class="col-sm-8 col-md-6 col-lg-5 mx-auto">
-            <div class="card card-login my-5">
+            <div class="card shadow-sm card-register my-5">
                 <div class="card-body">
                     <h2 class="card-title text-center"><?= getenv('app.name'); ?></h2>
                     <h5 class="card-subtitle text-center font-weight-light">Register</h5>
@@ -46,7 +43,8 @@ $titleOptions = [
             //this.state = {value: 'Write your Name'};
 
             this.handleFirstName = this.handleFirstName.bind(this);
-            // this.handleLastName = this.handleLastName.bind(this);
+            this.handleLastName = this.handleLastName.bind(this);
+            this.handleTitle =
             // this.handleSubmit = this.handleSubmit.bind(this);
         }
 
@@ -64,6 +62,10 @@ $titleOptions = [
                     //return false;
                 }
             }
+        }
+
+        handleLastName(event) {
+            this.setState({})
         }
 
         // handleLastName(event) {

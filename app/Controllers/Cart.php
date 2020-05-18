@@ -29,7 +29,7 @@ class Cart extends ParentController
 
         $cartPrice = 0;
         foreach ($products as $product) {
-            $cartPrice += $product->price;
+            $cartPrice += $product->price * $product->quantity;
         }
 
         $taxRate = getenv('app.taxRate');
@@ -208,6 +208,8 @@ class Cart extends ParentController
     {
         if ($this->request->getMethod() == 'post') {
 
+            $grand_total = $this->request->getPost('grand_total');
+
             $prepResult = $this->prepare(null, true, true, false);
 
             // Check if the result was a failure response.
@@ -218,7 +220,7 @@ class Cart extends ParentController
             }
 
             $cartModel = new CartModel();
-            if ($cartModel->checkout($client)) {
+            if ($cartModel->checkout($client, $grand_total)) {
                 return redirect()->to('/client/purchases');
             }
         }

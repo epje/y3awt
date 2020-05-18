@@ -103,10 +103,9 @@ class ProductModel extends BaseModel
     {
         return $this
             ->where('id', $product->id)
-            ->find();
+            ->first();
     }
 
-    // TODO: Return ALL products.
 
 
     /*

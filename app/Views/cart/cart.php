@@ -11,8 +11,8 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 mx-auto">
-            <div class="card shadow-sm card-login my-5">
-                <div class="card-body card-login">
+            <div class="card shadow-sm card-register my-5">
+                <div class="card-body card-register">
                     <h2 class="card-title text-center">Your Cart</h2>
                     <h5 class="card-subtitle text-center font-weight-light">Subtotal: &pound;<?= $subtotal; ?></h5>
                     <br/>
@@ -62,7 +62,9 @@
                             </ul>
                         </div>
                         <div class="col-7">
+                            <button class="btn btn-warning " onclick="deleteCart()">Empty&nbsp;<i class="fas fa-cart-arrow-down"></i></button>
                             <form action="/cart/checkout" method="post">
+                                <input type="hidden" name="grand_total" value="<?= $grand_total; ?>">
                                 <div class="form-row float-right align-bottom">
                                     <button type="submit" class="btn btn-primary">Checkout</button>
                                 </div>
@@ -102,6 +104,22 @@
                     break;
                 default:
                     alert("An error occurred removing product from cart!");
+                    break;
+            }
+        });
+    }
+
+    function deleteCart() {
+        $.getJSON("/cart/delete/", function (data) {
+            switch (data) {
+                case true:
+                    location.reload();
+                    break;
+                case 404:
+                    alert("Cart is already empty!");
+                    break;
+                default:
+                    alert("Cart deletion error!");
                     break;
             }
         });

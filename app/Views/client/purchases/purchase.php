@@ -15,8 +15,9 @@ use CodeIgniter\I18n\Time;
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-10 col-lg-8 mx-auto">
-            <div class="card shadow-sm card-login my-5">
-                <div class="card-body card-login">
+            <div class="card shadow-sm card-register my-5">
+                <div class="card-body card-register">
+                    <a href="/client/purchases" class="btn btn-secondary"><i class="fas fa-backward"></i>&nbsp;Back</a>
                     <h2 class="card-title text-center">Purchase - <?= Time::parse($purchase_date)->toLocalizedString('yyyy-MM-dd'); ?></h2>
                     <br/>
                     <table class="table table-striped">

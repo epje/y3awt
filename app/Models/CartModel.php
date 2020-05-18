@@ -164,7 +164,7 @@ class CartModel extends BaseModel
      * @return array|bool
      * @todo Finish HTTP return codes
      */
-    public function checkout(Client $client)
+    public function checkout(Client $client, $total)
     {
         if ($this->cartEmpty($client)) return ['status' => 404, 'code' => 404, 'message' => ['error' => 'The cart is empty.']];
 
@@ -181,7 +181,13 @@ class CartModel extends BaseModel
                 if (!$productPurchaseModel->createProductPurchase($purchase, $product)) {
                     return false;
                 }
+
             }
+
+            if(!$purchaseModel->setGrandTotal($purchase, $total)){
+                return false;
+            }
+
             if (!$purchaseModel->closePurchase($client)) {
                 return false;
             }
