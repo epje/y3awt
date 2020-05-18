@@ -23,7 +23,7 @@ if ($session->getFlashdata('password')) $passwordInputOptions['class'] .= ' is-i
 
 ?>
 <style>
-    .card-register {
+    .card-login {
         -webkit-border-radius: 1.5em;
         -moz-border-radius: 1.5em;
         border-radius: 1.5em;
@@ -52,7 +52,6 @@ if ($session->getFlashdata('password')) $passwordInputOptions['class'] .= ' is-i
                     <?= form_open(base_url('/client/login'), ['class' => 'needs-validation', 'id' => 'login_form']); ?>
                     <div class="form-group" style="position: relative">
                         <?= form_label('Phone Number', '', ['class' => '', 'for' => 'validationTooltipPhone']) ?>
-                        <? //old input, now with span. //= form_input('phone', old('phone') ?? '', $phoneInputOptions); ?>
                         <div class="input-group mb-3">
                             <div class="input-group-prepend">
                                 <span class="input-group-text" id="basic-addon1">+44</span>
