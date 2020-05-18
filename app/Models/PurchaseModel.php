@@ -13,7 +13,7 @@ class PurchaseModel extends BaseModel
     protected $returnType = 'App\Entities\Purchase';
     protected $useSoftDeletes = true;
 
-    protected $allowedFields = ['client_id', 'status'];
+    protected $allowedFields = ['client_id', 'status', 'grand_total'];
 
     protected $useTimestamps = true;
     protected $createdField = 'created_at';
@@ -127,7 +127,7 @@ class PurchaseModel extends BaseModel
     public function readPrice(Purchase $purchase)
     {
         $productPurchaseModel = new ProductPurchaseModel();
-        $products = $this->read
+        return 0;
     }
 
     public function readByID(Purchase $purchase)
@@ -145,7 +145,17 @@ class PurchaseModel extends BaseModel
         log_message('debug', '[DEBUG] \\' . __NAMESPACE__ . '\PurchaseModel - closePurchase(client->{id}) called.', ['id' => $client->id]);
         $purchase = $this->getPurchase($client);
         $purchase->status = 'closed';
-        log_message('debug', 'lll');
+        try {
+            return $this->update($purchase->id, $purchase);
+        } catch (\ReflectionException $e) {
+            log_message('error', '[ERROR] {e}', ['e' => $e]);
+        }
+        return false;
+    }
+
+    public function setGrandTotal(Purchase $purchase, $grand_total)
+    {
+        $purchase->grand_total = $grand_total;
         try {
             return $this->update($purchase->id, $purchase);
         } catch (\ReflectionException $e) {

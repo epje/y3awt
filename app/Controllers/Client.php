@@ -52,12 +52,19 @@ class Client extends ParentController
             'description' => 'Furniture Store Login Page',
             'title' => "Login",
             'keywords' => $keywords
-            //'client.phone' => $this->session->get('client.phone')
+        ];
+
+        $clientModel = new ClientModel();
+        $client = $clientModel->readByID(new \App\Entities\Client(['id' => $this->session->get('clientID')]));
+
+
+        $clientData = [
+            'client' => $client
         ];
 
         echo view('templates/header', $data);
-        echo view('client/profile', $data);
-        echo view('templates/footer', $data);
+        echo view('client/profile', $clientData);
+        echo view('templates/footer');
 
     }
 
@@ -140,15 +147,6 @@ class Client extends ParentController
 
             $productPurchaseModel = new ProductPurchaseModel();
 
-            $purchasesData = [];
-            foreach ($purchases as $purchase) {
-                $purchase->product_quantity = $productPurchaseModel->readProductQuantity($purchase);
-                $purchase->grand_total = $purchaseModel->readPrice($purchase);
-
-//                $productPurchaseModel->read
-
-//                $purchase->grand_total =
-            }
 
             $pageKeywords = ['client', 'purchases', 'purchase', 'list'];
             $headerData = [

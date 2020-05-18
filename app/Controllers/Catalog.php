@@ -19,13 +19,18 @@ class Catalog extends ParentController
 
     public function product($productID)
     {
-
         $product = new \App\Entities\Product(['id' => $productID]);
 
+        $productModel = new ProductModel();
+        $product = $productModel->readByID($product);
+
+        if (!isset($product)) {
+            throw new PageNotFoundException('Product not found!');
+        }
 
         $keywords = ['product', 'view'];
-        $headerData = [
-            'title' => '',
+        $headerMeta = [
+            'title' => $product->name,
             'author' => '17003804',
             'description' => 'viewing a product',
             'keywords' => $keywords,
@@ -33,10 +38,10 @@ class Catalog extends ParentController
         ];
 
         $productData = [
-            'product_id' => $productID
+            'product' => $product
         ];
 
-        echo view('templates/header', $headerData);
+        echo view('templates/header', $headerMeta);
         echo view('catalog/product', $productData);
         echo view('templates/footer');
 
@@ -44,10 +49,12 @@ class Catalog extends ParentController
 
     public function category($category = 'all')
     {
+        // If a category was passed in URL, set it.
         if (($category)) {
             $product = new \App\Entities\Product(['category' => $category]);
         }
 
+        // Get products from that category.
         $productModel = new ProductModel();
         $products = $productModel->readByCategory($product);
 

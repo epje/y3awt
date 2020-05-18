@@ -51,7 +51,7 @@ $session = Config\Services::session();
         <div class="row">
             <div class="col-12 text-center my-lg-1 my-5">
                 <div>
-                    <h1>Catalog<?= ' - ' . ucfirst(@$category); ?></h1>
+                    <h1>Catalog<?= ' - ' . ucfirst($category); ?></h1>
                 </div>
             </div>
         </div>
@@ -62,7 +62,11 @@ $session = Config\Services::session();
                     <?php foreach (@$products as $product): ?>
                         <div class="card border-secondary bg-light mb-4 shadow-sm">
                             <h5 class="card-header"><?= $product->name; ?>
-                                <span class="badge badge-light text-muted float-right"><?= ucfirst($product->category); ?></span>
+                                <span class="badge badge-light text-muted float-right">
+                                    <a href="/catalog/<?= $product->category; ?>">
+                                        <?= ucfirst($product->category); ?>
+                                    </a>
+                                </span>
                             </h5>
                             <div class="card-body">
                                 <h7 class="card-subtitle mb-2 text-muted">Rating -
@@ -96,11 +100,11 @@ $session = Config\Services::session();
                                         <a class="btn btn btn-outline-secondary" href="/catalog/<?= $product->id; ?>"><i
                                                     class="fas fa-eye"></i> View</a>
                                         <?php if ($session->get('loggedIn')): ?>
-                                            <buttaon type="button" class="btn btn-outline-success"
+                                            <button type="button" class="btn btn-outline-success"
                                                     id="addButton-<?= $product->id; ?>"
                                                     onclick="addToCart(<?= $product->id; ?>);"><i
                                                         class="fas fa-cart-plus"></i> Add
-                                            </buttaon>
+                                            </button>
                                         <?php endif; ?>
                                     </div>
                                     <h4 class="text-success"><kbd>&pound;<?= $product->price; ?></kbd></h4>
@@ -110,19 +114,19 @@ $session = Config\Services::session();
                     <?php endforeach; ?>
                     <!-- Loop End -->
                 </div>
-                <nav aria-label="Page navigation example">
-                    <ul class="pagination justify-content-center">
-                        <li class="page-item disabled">
-                            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
-                        </li>
-                        <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
-                        <li class="page-item"><a class="page-link" href="?page=2">2</a></li>
-                        <li class="page-item"><a class="page-link" href="?page=3">3</a></li>
-                        <li class="page-item">
-                            <a class="page-link" href="">Next</a>
-                        </li>
-                    </ul>
-                </nav>
+                <!--                <nav aria-label="Page navigation example">-->
+                <!--                    <ul class="pagination justify-content-center">-->
+                <!--                        <li class="page-item disabled">-->
+                <!--                            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>-->
+                <!--                        </li>-->
+                <!--                        <li class="page-item"><a class="page-link" href="?page=1">1</a></li>-->
+                <!--                        <li class="page-item"><a class="page-link" href="?page=2">2</a></li>-->
+                <!--                        <li class="page-item"><a class="page-link" href="?page=3">3</a></li>-->
+                <!--                        <li class="page-item">-->
+                <!--                            <a class="page-link" href="">Next</a>-->
+                <!--                        </li>-->
+                <!--                    </ul>-->
+                <!--                </nav>-->
             </div>
         </div>
     </div>
@@ -130,14 +134,6 @@ $session = Config\Services::session();
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
         crossorigin="anonymous"></script>
 <script>
-
-    function updateCart() {
-        // TODO: Implement this.
-        $.getJSON("/cart/", function (data) {
-            // Set data on page here.
-        });
-    }
-
     function addToCart(productID) {
         quantity = 1;
         $.getJSON("/cart/add/" + productID + "/" + quantity, function (data) {

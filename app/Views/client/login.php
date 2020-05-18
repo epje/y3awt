@@ -23,7 +23,7 @@ if ($session->getFlashdata('password')) $passwordInputOptions['class'] .= ' is-i
 
 ?>
 <style>
-    .card-login {
+    .card-register {
         -webkit-border-radius: 1.5em;
         -moz-border-radius: 1.5em;
         border-radius: 1.5em;
