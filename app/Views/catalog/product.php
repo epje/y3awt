@@ -1,3 +1,12 @@
+<?php
+use CodeIgniter\Config\Services;
+$session = Services::session();
+?>
+<style>
+    .coloured {
+        color: goldenrod;
+    }
+</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.7/holder.js"></script>
 <div class="container py-5">
     <div class="row">
@@ -15,7 +24,7 @@
                             <?php else: ?>
                                 <a href="/catalog/<?= $product->id; ?>">
                                     <img class="card-img-top"
-                                         data-src="holder.js/500x500?auto=yes&text=<?= $product->name; ?>"
+                                         data-src="holder.js/300x300?auto=yes&text=<?= $product->name; ?>"
                                          alt="<?= $product->name; ?>">
                                 </a>
                             <?php endif; ?>
@@ -26,27 +35,40 @@
                             <h3 class="card-title"><strong><?= $product->name; ?></strong></h3>
                             <hr/>
                             <h5 class="card-subtitle">
+                                <strong>Rating:</strong>
+                                <?php $goldStars = 0; ?>
+                                <?php for ($goldStars; $goldStars < $product->rating; $goldStars++): ?>
+                                    <span class="fas fa-star coloured"></span>
+                                <?php endfor; ?>
+                                <?php for ($emptyStars = 0; $emptyStars < (5 - $goldStars); $emptyStars++): ?>
+                                    <span class="far fa-star"></span>
+                                <?php endfor; ?>
+                            </h5>
+                            <br/>
+                            <h5 class="card-subtitle">
                                 <strong>Price</strong>:&nbsp;<kbd>&pound;<?= $product->price; ?></kbd></h5>
                             <br/>
                             <h5 class="card-subtitle"><strong>Description:</strong></h5>
                             <p class="card-text"><?= $product->description; ?></p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div class="row">
-                                    <div class="col-4">
-                                        <input type="number" id="productQuantity" class="form-control"
-                                               min="1" value="1">
-                                    </div>
-                                    <div class="col-8">
-                                        <div class="btn-group">
-                                            <button type="button" id="addButton-<?= $product->id; ?>"
-                                                    class="btn btn-outline-success"
-                                                    onclick="addToCart(<?= $product->id; ?>);">Add <i
-                                                        class="fas fa-cart-plus"></i>
-                                            </button>
+                            <?php if ($session->get('loggedIn')): ?>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <input type="number" id="productQuantity" class="form-control"
+                                                   min="1" value="1">
+                                        </div>
+                                        <div class="col-8">
+                                            <div class="btn-group">
+                                                <button type="button" id="addButton-<?= $product->id; ?>"
+                                                        class="btn btn-outline-success"
+                                                        onclick="addToCart(<?= $product->id; ?>);">Add <i
+                                                            class="fas fa-cart-plus"></i>
+                                                </button>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            <?php endif; ?>
                         </div>
                     </div>
                 </div>
