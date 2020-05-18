@@ -1,8 +1,5 @@
 <?php
 $session = \Config\Services::session();
-$title = getenv('app.name') . ' - ' . $title;
-
-
 ?>
 <!doctype html>
 <html lang="en">
@@ -10,31 +7,21 @@ $title = getenv('app.name') . ' - ' . $title;
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title><?= $title; ?></title>
+    <title><?= getenv('app.name') . ' - ' . $title; ?></title>
     <meta name="author" content="<?= $author; ?>">
     <meta name="description" content="<?= $description; ?>">
     <meta name="keywords" content="<?= implode(", ", $keywords); ?>"/>
     <meta name="url" content="<?= base_url(); ?>">
-    <!--    <meta name="theme-color" content="#4285f4">-->
-    <!--    <meta name="subject" content="website's subject">-->
-    <!--    <meta name="copyright" content="company name">-->
     <meta name="language" content="EN">
     <meta name="copyright" content="<?= $copyright; ?>">
-    <!--    <meta name="category" content="">-->
-    <!--    <meta name="distribution" content="Global">-->
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- FontAwesome code kit   -->
     <script src="https://kit.fontawesome.com/e9d80d28ad.js" crossorigin="anonymous"></script>
     <style>
-        body {
-            /*background: linear-gradient(to right, #f96f5d, #fa897a);*/
-            /*background: linear-gradient(to right, #E27D60, #fa897a);*/
-        }
-
         .navbar {
             min-height: 80px;
-            background-color: gold;
         }
     </style>
 </head>
@@ -68,7 +55,10 @@ $title = getenv('app.name') . ' - ' . $title;
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                        <a class="nav-link" href="/about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/contact">Contact</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav">
