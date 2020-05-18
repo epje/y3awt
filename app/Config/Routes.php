@@ -46,8 +46,9 @@ $routes->get('catalog', 'Catalog::category/all');
 // CART
 $routes->post('cart/checkout', 'Cart::checkoutPost');
 
-//$routes->get('logout', 'Client::logout');
-//$routes->get('register', 'Client::register');
+// STATIC PAGES
+$routes->get('about', 'Pages::about');
+$routes->get('contact', 'Pages::contact');
 
 /**
  * --------------------------------------------------------------------
