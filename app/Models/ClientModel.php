@@ -71,7 +71,6 @@ class ClientModel extends BaseModel
     protected $beforeInsert = ['hashPassword'];
     protected $beforeUpdate = ['hashPassword'];
 
-
     /*
      * CREATE
      */
@@ -116,13 +115,13 @@ class ClientModel extends BaseModel
     {
         if (!$asArray) {
             return $this
-                ->select('id, first_name, last_name, title, phone, email')
+                ->select('id, first_name, last_name, title, phone, email, created_at')
                 ->where('id', $client->id)
                 ->first();
         } else {
             return $this
                 ->asArray()
-                ->select('id, first_name, last_name, title, phone, email')
+                ->select('id, first_name, last_name, title, phone, email, created_at')
                 ->where('id', $client->id)
                 ->first();
         }

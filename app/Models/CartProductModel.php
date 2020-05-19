@@ -127,7 +127,6 @@ class CartProductModel extends BaseModel
     /**
      * @param Cart $cart
      * @return array
-     * @todo give this a once over.
      */
     public function getProducts(Cart $cart)
     {
@@ -157,23 +156,38 @@ class CartProductModel extends BaseModel
      * @param $quantity
      * @return bool
      */
-    protected function updateProduct(Cart $cart, Product $product, $quantity)
+    public function updateProduct(Cart $cart, Product $product, $quantity)
     {
+
+        // Check if product exists as row in CartProduct.
+        // If not return false
+        // If yes, get it
+        // Change its quantity
+        // Update / replace it.
         log_message('debug', '[DEBUG] updateProduct() called in CartProductModel.');
-        $row = $this->readByCP($cart, $product);
         $cartProduct = new CartProduct([
             'cart_id' => $cart->id,
-            'product_id' => $product->id,
-            'quantity' => $quantity
+            'product_id' => $product->id
         ]);
 
-        try {
-            return $this->update($cartProduct);
-        } catch (\ReflectionException $e) {
-            log_message('error', '[ERROR] {e}', ['e' => $e]);
+        if ($this->exists($cartProduct)) {
+
+            // Get the cart product from db.
+            $cartProduct = new CartProduct($this->readByCP($cartProduct, true)[0]);
+
+            // Change the quantity.
+            $cartProduct->quantity = $quantity;
+
+            // Then try to update the row.
+            try {
+                return $this->update($cartProduct->id, $cartProduct);
+            } catch (\ReflectionException $e) {
+                log_message('error', '[ERROR] {e}', ['e' => $e]);
+            }
+            log_message('debug', '[DEBUG] updateProduct() returned false in CartProductModel.');
+        } else {
+            return false;
         }
-        log_message('debug', '[DEBUG] updateProduct() returned false in CartProductModel.');
-        return false;
     }
 
 

@@ -45,12 +45,12 @@ class Client extends ParentController
             return redirect()->to('/client/login')->with('phone', 'Please sign in first!');
         }
         // Otherwise redirect to their profile.
-        $keywords = ['client', 'login', 'login-page'];
+        $keywords = ['client', 'profile', 'account', 'details'];
         $data = [
             'author' => '17003804',
-            'copyright' => '',
-            'description' => 'Furniture Store Login Page',
-            'title' => "Login",
+            'copyright' => '17003804 &copy; 2020',
+            'description' => 'Your profile page',
+            'title' => 'Profile',
             'keywords' => $keywords
         ];
 
@@ -99,7 +99,7 @@ class Client extends ParentController
             if ($purchaseDB = $purchaseModel->readByClientIDPurchaseID($client, $purchase)) {
 
                 $productPurchaseJoinProductModel = new ProductPurchaseJoinProductModel();
-                $products = $productPurchaseJoinProductModel->readByClientPurchase($client, $purchaseDB);
+                $products = $productPurchaseJoinProductModel->readByPurchaseID($client, $purchaseDB);
 
                 // *DERIVED* attribute of purchase price.
                 $subtotal = 0;
@@ -161,7 +161,7 @@ class Client extends ParentController
                 'purchases' => $purchases
             ];
 
-            // TODO: Do this in the view instead.
+
             if (!empty($purchases)) {
                 echo view('templates/header', $headerData);
                 echo view('client/purchases/list', $purchasesListData);
@@ -356,7 +356,6 @@ class Client extends ParentController
             // Create a new Client object from post data.
             $postData = $this->request->getPost();
             $client = new \App\Entities\Client($postData);
-
             try {
                 if ($model->create($client)) {
                     // REGISTRATION SUCCEEDED.
@@ -387,9 +386,6 @@ class Client extends ParentController
                 log_message('error', '[ERROR] {exception}', ['exception' => $e]);
             }
         } else {
-            // TODO: Maybe use redirect instead of views.
-            //return redirect()->to('/client/register');
-
             echo view('templates/header', $data);
             echo view('client/register');
             echo view('templates/footer');

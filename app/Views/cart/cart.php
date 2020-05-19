@@ -40,6 +40,7 @@
                                 <td id="product-row"><?= number_format($product->price * $product->quantity, 2); ?></td>
                                 <td id="product-row">
                                     <button type="button" class="btn btn-outline-primary"
+                                            id="updateProduct-<?= $product->id; ?>"
                                             onclick="updateProduct(<?= $product->id; ?>)">
                                         <i class="fas fa-save"></i>
                                     </button>
@@ -58,11 +59,12 @@
                                 <li class="list-group-item">Tax&nbsp;(<?= 100 * $tax_rate; ?>&percnt;):&nbsp;
                                     <kbd class="float-right">&pound;<?= $tax_value; ?></kbd></li>
                                 <li class="list-group-item">Grand Total:&nbsp;
-                                    <kbd class="float-right">&pound;<?= $grand_total; ?></kbd></li>
+                                    <kbd class="float-right">&pound;<?= number_format($grand_total, 2); ?></kbd></li>
                             </ul>
                         </div>
                         <div class="col-7">
-                            <button class="btn btn-warning " onclick="deleteCart()">Empty&nbsp;<i class="fas fa-cart-arrow-down"></i></button>
+                            <button class="btn btn-warning " onclick="deleteCart()">Empty&nbsp;<i
+                                        class="fas fa-cart-arrow-down"></i></button>
                             <form action="/cart/checkout" method="post">
                                 <input type="hidden" name="grand_total" value="<?= $grand_total; ?>">
                                 <div class="form-row float-right align-bottom">
@@ -124,4 +126,5 @@
             }
         });
     }
+
 </script>
