@@ -20,7 +20,7 @@ use CodeIgniter\I18n\Time;
                                 </div>
                                 <br>
                                 <small class="float-right">Status:&nbsp;<?= ucfirst($purchase->status); ?></small>
-                                <p>Grand Total: <kbd>&pound;<?= $purchase->grand_total; ?></kbd></p>
+                                <p>Grand Total: <kbd>&pound;<?= number_format($purchase->grand_total, 2); ?></kbd></p>
                             </a>
                         </div>
                     <?php endforeach; ?>

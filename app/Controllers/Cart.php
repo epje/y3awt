@@ -222,10 +222,7 @@ class Cart extends ParentController
     public function checkoutPost()
     {
         if ($this->request->getMethod() == 'post') {
-
             $grand_total = $this->request->getPost('grand_total');
-            $grand_total = (double)$grand_total;
-            log_message('debug', 'checkoutPost() called with grand total of [{gt}]', ['gt' => $grand_total]);
 
             $prepResult = $this->prepare(null, true, true, false);
 

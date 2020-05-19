@@ -11,5 +11,6 @@ class Client extends Entity
     protected $phone;
     protected $email;
     protected $password;
+    protected $staff;
 
 }

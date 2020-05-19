@@ -99,7 +99,7 @@ class Client extends ParentController
             if ($purchaseDB = $purchaseModel->readByClientIDPurchaseID($client, $purchase)) {
 
                 $productPurchaseJoinProductModel = new ProductPurchaseJoinProductModel();
-                $products = $productPurchaseJoinProductModel->readByPurchaseID($client, $purchaseDB);
+                $products = $productPurchaseJoinProductModel->readByPurchaseID($purchaseDB);
 
                 // *DERIVED* attribute of purchase price.
                 $subtotal = 0;
