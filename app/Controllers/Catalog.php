@@ -61,7 +61,6 @@ class Catalog extends ParentController
         // Shuffle() the products in a random order.
         shuffle($products);
 
-        // TODO: Maybe change the way the no products found works.
         if (empty($products)) {
             throw new PageNotFoundException('No products found in this category.', 404);
         }

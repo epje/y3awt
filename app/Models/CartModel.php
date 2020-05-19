@@ -9,7 +9,6 @@ use App\Entities\Product;
  * Class CartModel
  * @package App\Models
  * @author 17003804
- * @todo Create logs for each function call + get list of products in cart as JSON.
  */
 class CartModel extends BaseModel
 {
@@ -143,16 +142,17 @@ class CartModel extends BaseModel
      * @param Client $client
      * @param Product $product
      * @param int $quantity
-     * @todo this
+     * @return bool
      */
     public function updateProduct(Client $client, Product $product, int $quantity)
     {
         log_message('debug', '[DEBUG] \\' . __NAMESPACE__ . '\CartModel - updateProduct() called.');
-        if ($quantity == 0) {
-            return $this->deleteProduct($client, $product);
-        } else {
+        $cart = $this->getCart($client);
 
-        }
+        $cartProductModel = new CartProductModel();
+
+        return $cartProductModel->updateProduct($cart, $product, $quantity);
+
     }
 
     //endregion
@@ -166,6 +166,7 @@ class CartModel extends BaseModel
      */
     public function checkout(Client $client, $total)
     {
+        log_message('debug', 'checkout in CartModel passed total [{total}]', ['total' => $total]);
         if ($this->cartEmpty($client)) return ['status' => 404, 'code' => 404, 'message' => ['error' => 'The cart is empty.']];
 
         $cart = $this->getCart($client);
@@ -184,7 +185,7 @@ class CartModel extends BaseModel
 
             }
 
-            if(!$purchaseModel->setGrandTotal($purchase, $total)){
+            if (!$purchaseModel->setGrandTotal($purchase, $total)) {
                 return false;
             }
 
@@ -237,7 +238,6 @@ class CartModel extends BaseModel
      * @param Client $client
      * @param Product $product
      * @return bool|mixed|string
-     * @todo Check product exists in cart first.
      */
     public function deleteProduct(Client $client, Product $product)
     {

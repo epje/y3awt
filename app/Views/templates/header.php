@@ -39,6 +39,11 @@ $session = \Config\Services::session();
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">
+                            <i class="fa fa-home fa-lg"></i>&nbsp;Home
+                        </a>
+                    </li>
                     <li class="nav-item dropdown">
                         <a href="/catalog" class="nav-link dropdown-toggle" id="navbarDropdown" role="button"
                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i
@@ -55,10 +60,14 @@ $session = \Config\Services::session();
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about">About</a>
+                        <a class="nav-link" href="/about">
+                            <i class="fas fa-info-circle fa-lg"></i>&nbsp;About
+                        </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contact">Contact</a>
+                        <a class="nav-link" href="/contact">
+                            <i class="fas fa-paper-plane fa-lg"></i>&nbsp;Contact
+                        </a>
                     </li>
                 </ul>
                 <ul class="navbar-nav">

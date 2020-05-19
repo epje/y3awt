@@ -1,4 +1,9 @@
 <?php
+
+use CodeIgniter\I18n\Time;
+
+$time = Time::parse($client->created_at);
+
 ?>
 <div class="container">
     <div class="row">
@@ -12,22 +17,23 @@
                     <form>
                         <div class="form-row">
                             <div class="form-group col-md-2">
-                                <label for="inputEmail4">Title</label>
-                                <input disabled type="text" class="form-control" value="<?= $client->title; ?>">
+                                <label for="title">Title</label>
+                                <input disabled type="text" class="form-control" id="title" value="<?= $client->title; ?>">
                             </div>
                             <div class="form-group col-md-5">
-                                <label for="inputEmail4">First Name</label>
-                                <input disabled type="text" class="form-control" value="<?= $client->first_name; ?>">
+                                <label for="first_name">First Name</label>
+                                <input disabled type="text" class="form-control" id="first_name" value="<?= $client->first_name; ?>">
                             </div>
                             <div class="form-group col-md-5">
-                                <label for="inputPassword4">Last Name</label>
-                                <input disabled type="text" class="form-control" value="<?= $client->last_name; ?>">
+                                <label for="last_name">Last Name</label>
+                                <input disabled type="text" class="form-control" id="last_name" value="<?= $client->last_name; ?>">
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="form-group col-md-6">
-                                <label for="inputEmail4">Email</label>
-                                <input type="email" disabled class="form-control" value="<?= $client->email; ?>">
+                                <label for="email">Email</label>
+                                <input disabled type="email" class="form-control" id="email"
+                                       value="<?= $client->email; ?>">
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="phoneField">Phone</label>
@@ -41,8 +47,9 @@
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="inputAddress">Account Created:</label>
-                            <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+                            <label for="created_at">Account Created:</label>
+                            <input disabled type="text" class="form-control" id="created_at"
+                                   value="<?= $time->toLocalizedString('dd-MM-yyyy') . ' at ' . $time->toTimeString(); ?>">
                         </div>
                     </form>
                 </div>

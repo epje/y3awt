@@ -1,10 +1,8 @@
-<?php
+<?php namespace App\Entities;
 
+use CodeIgniter\Entity;
 
-namespace App\Entities;
-
-
-class ProductPurchaseJoinProduct
+class ProductPurchaseJoinProduct extends Entity
 {
 
 

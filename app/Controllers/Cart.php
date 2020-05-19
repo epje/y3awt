@@ -38,7 +38,7 @@ class Cart extends ParentController
             'subtotal' => number_format($cartPrice, 2),
             'tax_rate' => $taxRate,
             'tax_value' => number_format($taxRate * $cartPrice, 2),
-            'grand_total' => number_format((($taxRate * $cartPrice) + $cartPrice), 2)
+            'grand_total' => (($taxRate * $cartPrice) + $cartPrice)
         ];
         $headerData = [
             'title' => 'Checkout',
@@ -111,6 +111,7 @@ class Cart extends ParentController
             log_message('debug', '[DEBUG] addProduct() called from Cart.');
             return $this->respondCreated([
                 'status' => 200,
+                'code' => 200,
                 'message' => [
                     'success' => 'Product added successfully.'
                 ]
@@ -191,7 +192,11 @@ class Cart extends ParentController
 
     public function update(int $productID, int $quantity)
     {
-        $prepResult = $this->prepare($productID, true, true, false);
+        $prepResult = $this->prepare($productID, true, true, true);
+
+        if ($quantity < 1) {
+            return $this->remove($productID);
+        }
 
         // Check if the result was a failure response.
         if ($prepResult instanceof Response) {
@@ -201,7 +206,17 @@ class Cart extends ParentController
             $client = $prepResult['client'];
         }
 
-
+        $cartModel = new CartModel();
+        if ($result = $cartModel->updateProduct($client, $product, $quantity)) {
+            return $this->respondCreated([
+                'status' => 200,
+                'code' => 200,
+                'message' => [
+                    'success' => 'Product updated successfully.'
+                ]]);
+        } else {
+            return $this->failServerError('Update of product failed.');
+        }
     }
 
     public function checkoutPost()
@@ -209,6 +224,8 @@ class Cart extends ParentController
         if ($this->request->getMethod() == 'post') {
 
             $grand_total = $this->request->getPost('grand_total');
+            $grand_total = (double)$grand_total;
+            log_message('debug', 'checkoutPost() called with grand total of [{gt}]', ['gt' => $grand_total]);
 
             $prepResult = $this->prepare(null, true, true, false);
 
