@@ -141,11 +141,20 @@ class ClientModel extends BaseModel
         return password_verify($client->password, $dbClient->password);
     }
 
-
-    /*
-     * UPDATE
-     */
-    // TODO: Implement these methods.
+    public function isStaff(Client $client)
+    {
+        $rows = $this
+            ->select()
+            ->where('id', $client->id)
+            ->where('staff', '1')
+            ->countAllResults();
+        switch ($rows) {
+            case 1:
+                return true;
+            default:
+                return false;
+        }
+    }
 
 
     /*
