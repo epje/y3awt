@@ -25,7 +25,6 @@ $titleOptions = [
                     <h2 class="card-title text-center"><?= getenv('app.name'); ?></h2>
                     <h5 class="card-subtitle text-center font-weight-light">Register</h5>
                     <div id="root"></div>
-                    <div id="root2"></div>
                 </div>
             </div>
         </div>
@@ -205,6 +204,19 @@ $titleOptions = [
             return (
                 <form onSubmit={this.handleSubmit} method='post'>
                     <div className='form-group'>
+                        <label htmlFor='title'>Title</label>
+                        <input
+                            name='title'
+                            className={`form-control ${this.state.titleError ? 'is-invalid' : ''}`}
+                            id='title'
+                            placeholder='Mr.'
+                            value={this.state.title}
+                            onChange={this.handleTitleChange}
+                            onBlur={this.validateTitle}
+                        />
+                        <div className='invalid-feedback'>{this.state.titleError}</div>
+                    </div>
+                    <div className='form-group'>
                         <label htmlFor='first_name'>Name</label>
                         <input
                             name='first_name'
@@ -229,19 +241,6 @@ $titleOptions = [
                             onBlur={this.validateLastName}
                         />
                         <div className='invalid-feedback'>{this.state.lastNameError}</div>
-                    </div>
-                    <div className='form-group'>
-                        <label htmlFor='title'>Title</label>
-                        <input
-                            name='title'
-                            className={`form-control ${this.state.titleError ? 'is-invalid' : ''}`}
-                            id='title'
-                            placeholder='Mr.'
-                            value={this.state.title}
-                            onChange={this.handleTitleChange}
-                            onBlur={this.validateTitle}
-                        />
-                        <div className='invalid-feedback'>{this.state.titleError}</div>
                     </div>
                     <div className='form-group'>
                         <label htmlFor='phone'>Phone</label>
@@ -297,15 +296,12 @@ $titleOptions = [
                         />
                         <div className='invalid-feedback'>{this.state.passwordConfError}</div>
                     </div>
-                    <button type='submit' className='btn btn-success btn-block'>
-                        Submit
+                    <button type='submit' className='btn btn-primary btn-block'>
+                        Register Account
                     </button>
                 </form>
             );
         }
     }
-
-    ReactDOM.render(<BasicForm/>, document.getElementById('root2'))
-
-
+    ReactDOM.render(<BasicForm/>, document.getElementById('root'))
 </script>
