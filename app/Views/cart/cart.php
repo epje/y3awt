@@ -63,14 +63,15 @@
                             </ul>
                         </div>
                         <div class="col-7">
-                            <button class="btn btn-warning " onclick="deleteCart()">Empty&nbsp;<i
-                                        class="fas fa-cart-arrow-down"></i></button>
                             <form action="/cart/checkout" method="post">
                                 <input type="hidden" name="grand_total" value="<?= $grand_total; ?>">
                                 <div class="form-row float-right align-bottom">
                                     <button type="submit" class="btn btn-primary">Checkout</button>
                                 </div>
                             </form>
+
+                            <button class="btn btn-outline-danger float-right mr-3" onclick="deleteCart()">Empty&nbsp;<i
+                                        class="fas fa-cart-arrow-down"></i></button>
                         </div>
                     </div>
                 </div>
